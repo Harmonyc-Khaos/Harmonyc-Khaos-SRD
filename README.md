@@ -32,7 +32,7 @@ It also bears mentioning that one of the following **heritages** actively goes a
 #### Names
 Their forebears, the Immanis, didn't believe in granting names to their creations as a name is a source of power and individuality, which the titans refused to cede to the Homonis. Once they lost their creators, the Homonis started naming each other, if only out of convinience, which led them to learn and pick up the names that their creators once used, which led to them sharing given names with most other cultures as the Immanis had gotten their own names from the Primordials who had also been responsible in the creation of other cultures.
 
-Male Names: Alexander, Sergey, Peter, André, David, Michael
+Male Names: Alexander, Sergey, Peter, André, David, Michael <br>
 Female Names: Maria, Anna, Elena, Olga, Catherine, Tatyana
 
 #### Language
