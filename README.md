@@ -25,7 +25,8 @@ The Homonis are ambitious and versatile people with limitless potential. They ar
 A Homonis character has an additional 4 **Health Points**. They are some of the most fragile beings in **The New World** and a well placed strike from a dagger is usually enough to end their lives. Like every other being in **Harmonia Chaos**, they have access to Mana which grants them 1 **Mana Point** which they cannot use without the knowledge on how to do so.
 
 ### Stats
-Your movement speed is 9 m/𝐑 (9 meters per round).
+Your **movement speed** is 9 m/𝐑 (9 meters per round).
+Your **Evasion** stat is 8.
 (WIP)
 
 ### Physical Characteristics
@@ -39,8 +40,7 @@ It also bears mentioning that one of the following **heritages** actively goes a
 ### Names
 Their forebears, the Immanis, didn't believe in granting names to their creations as a name is a source of power and individuality, which the titans refused to cede to the Homonis. Once they lost their creators, the Homonis started naming each other, if only out of convinience, which led them to learn and pick up the names that their creators once used for themselves, which in turn caused Homonis given names to share traits with all other cultures as the Immanis had gotten their own names from the Primordials who had also been responsible in the creation of other cultures.
 
-Male Names: Alexander, Sergey, Peter, André, David, Michael
-
+Male Names: Alexander, Sergey, Peter, André, David, Michael <br>
 Female Names: Maria, Anna, Elena, Olga, Catherine, Tatyana
 
 Depending on your heritage, you may also inherit a family name which will be described in each heritage's section.
@@ -49,6 +49,43 @@ Depending on your heritage, you may also inherit a family name which will be des
 You gain 5 **Novice** Skill Proficiencies of your choice. Alternatively, you can forego 3 of those **Novice** proficiencies to gain **Expert** proficiency in any skill of your choice instead.
 
 ### Languages
-The Homonis' primary language is **Cengra**, a language taught to them by **Him** which your character has Expert proficiency in if their Intelligence modifier is positive during character creation or Novice if otherwise. Over the generations, Cengra slowly replaced **Alflos**, the language of the Immanis which itself has its roots in **Prima**, as most languages do, however some people, specially **House Chozekiel**, chose to safeguard the knowledge as that language is the gateway to many spells created by the Immanis. As a character from the Homonis people, if during character creation your Intelligence modifier is 2 or higher, you may add Alflos to your known languages at Novice proficiency.
+The Homonis' primary language is **Cengra**, a language taught to them by **Him** which your character has Expert proficiency in if their Intelligence is 5 or higher; Novice if 3 or higher or Untrained if below 2 or lower, which still allows you to speak and understand the spoken language but not its written form.
+
+ Over the generations, Cengra slowly replaced **Alflos**, the language of the Immanis which itself has its roots in **Prima**, as most languages do, however some people, specially **House Chozekiel**, chose to safeguard the knowledge as that language is the gateway to many spells created by the Immanis.
+
+As a character from the Homonis people, if during character creation your Intelligence 10 or higher, you may add Alflos to your known languages at Novice proficiency.
 
 ## Homonis Heritages
+The Twenty Hero Kings each established their own houses, granting their newly gifted names to the ones who were part of their respective settlements during Revelation and that joined the chosen ones in their quest to unify all of Vinctora, which eventually developed into the institutions known as **The Great Houses of Vinctora**. Each house has a rich history that goes back centuries to a few decades prior to Revelation even, each representing an aspect considered vital to existence itself. Choose one of the following heritages during character creation:
+
+### House Kosemiel (The Sage)
+The keepers of knowledge, House Kosemiel owns vast libraries containing incalculable historical value with records that date back before even Revelation that were recovered from many expeditions since the formation of **The Triumph** by the scholars of this house. Progenitors are taught from a young age the importance of knowledge and how learning is the greatest gift bestowed upon the Homonis by Him and that only by the means of education can they evolve as a species.
+
+People of this house tend to share their appearance with their ancestor, **The First Sage**, with fair androgynous complexions, white hair and eye colors that tend to shift between the primary colors (Red, Yellow and Blue).
+
+If you choose this heritage your **Affinity** becomes **Arcane**.
+
+<ins>**Arcane Foresight**</ins>
+The ability gifted to House Kosemiel by Him. It allows them to unlock the power to enhance their perception of time and space in a surge of time, granting them the ability to analyze the situation, draw from their well of knowledge and calculate how they can exploit their current predictament in order to guarantee themselves an advantage that may prove critical to their victory, be it in battle or otherwise.
+
+At the start of your turn, you may expend 1 Mana to gain a ⬡ token. until the end of the current round. If you are capable of using 3rd-tier skills or cast 3rd-tier or higher spells, you can instead expend 3 Mana to gain a ⬢ token.
+
+You must complete a rest before you  use this feature again.
+
+### House Neviel (The Saintess)
+
+### House Malkahiel (The Mother)
+
+### House Melechiel (The Father)
+
+### House Gadoliel (The Advocate)
+
+### House Ahaviel (The Linked)
+
+### House Merkaviel (The Gallant)
+
+### House Chozekiel (The Strong)
+
+### House Bodediel (The Ascetic)
+
+### House Goraliel (The Fate)
