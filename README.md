@@ -38,7 +38,7 @@ Due to the influence of **Him** on their species, they are from a young age guid
 It also bears mentioning that one of the following **heritages** actively goes against the teachings of **Him** and everything that he stands for. This will be discussed in further detail in that heritage's section. 
 
 ### Names
-Their forebears, the Immanis, didn't believe in granting names to their creations as a name is a source of power and individuality, which the titans refused to cede to the Homonis. Once they lost their creators, the Homonis started naming each other, if only out of convinience, which led them to learn and pick up the names that their creators once used for themselves, which in turn caused Homonis given names to share traits with all other cultures as the Immanis had gotten their own names from the Primordials who had also been responsible in the creation of other cultures.
+Their forebears, the Immanis, didn't believe in granting names to their creations as a name is a source of power and individuality, which the titans refused to cede to the Homonis. Once they lost their creators, the Homonis started naming each other, if only out of convenience, which led them to learn and pick up the names that their creators once used for themselves, which in turn caused Homonis given names to share traits with all other cultures as the Immanis had gotten their own names from the Primordials who had also been responsible in the creation of other cultures.
 
 Male Names: Alexander, Sergey, Peter, André, David, Michael <br>
 Female Names: Maria, Anna, Elena, Olga, Catherine, Tatyana
