@@ -47,28 +47,28 @@ It also bears mentioning that one of the following **heritages** actively goes a
 Their forebears, the Immanis, didn't believe in granting names to their creations as a name is a source of power and individuality, which the titans refused to cede to the Homonis. Once they lost their creators, the Homonis started naming each other, if only out of convenience, which led them to learn and pick up the names that their creators once used for themselves, which in turn caused Homonis given names to share traits with all other cultures as the Immanis had gotten their own names from the Primordials who had also been responsible in the creation of other cultures.
 
 <div class="name-list">
-  <div class="name-group">
-    <p class="name-group-title">Male Names</p>
-    <ul>
-      <li>Alexander</li>
-      <li>Sergey</li>
-      <li>Peter</li>
-      <li>André</li>
-      <li>David</li>
-      <li>Michael</li>
-    </ul>
-  </div>
-  <div class="name-group">
-    <p class="name-group-title">Female Names</p>
-    <ul>
-      <li>Maria</li>
-      <li>Anna</li>
-      <li>Elena</li>
-      <li>Olga</li>
-      <li>Catherine</li>
-      <li>Tatyana</li>
-    </ul>
-  </div>
+<div class="name-group">
+<p class="name-group-title">Male Names</p>
+<ul>
+<li>Alexander</li>
+<li>Sergey</li>
+<li>Peter</li>
+<li>André</li>
+<li>David</li>
+<li>Michael</li>
+</ul>
+</div>
+<div class="name-group">
+<p class="name-group-title">Female Names</p>
+<ul>
+<li>Maria</li>
+<li>Anna</li>
+<li>Elena</li>
+<li>Olga</li>
+<li>Catherine</li>
+<li>Tatyana</li>
+</ul>
+</div>
 </div>
 
 Depending on your heritage, you may also inherit a family name which will be described in each heritage's section.
