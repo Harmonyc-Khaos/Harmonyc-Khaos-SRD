@@ -1,0 +1,339 @@
+/* ==========================================================================
+   Harmonyc Khaos SRD — Clean Modern Rulebook Theme
+   ========================================================================== */
+
+:root {
+  --accent: #8a1f2d;
+  --accent-dark: #631620;
+  --accent-soft: #f7e9ea;
+  --ink: #2a2622;
+  --ink-soft: #5a5450;
+  --paper: #fbf9f6;
+  --paper-card: #ffffff;
+  --border: #e7e0d8;
+  --sidebar-bg: #201d1b;
+  --sidebar-ink: #d9d2c8;
+  --sidebar-ink-dim: #8f887f;
+  --font-body: "Source Sans Pro", "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-head: "Merriweather", Georgia, "Times New Roman", serif;
+  --max-width: 780px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&family=Source+Sans+Pro:wght@400;600;700&display=swap');
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+/* ---------- Page shell: sidebar + content ---------- */
+
+.page-shell {
+  display: flex;
+  min-height: 100vh;
+}
+
+.toc-sidebar {
+  flex: 0 0 260px;
+  background: var(--sidebar-bg);
+  color: var(--sidebar-ink);
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+  padding: 28px 20px 40px;
+}
+
+.toc-sidebar .site-title {
+  font-family: var(--font-head);
+  font-weight: 900;
+  font-size: 1.25rem;
+  color: #fff;
+  margin: 0 0 4px;
+  line-height: 1.25;
+}
+
+.toc-sidebar .site-subtitle {
+  font-size: 0.8rem;
+  color: var(--sidebar-ink-dim);
+  margin: 0 0 24px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.toc-sidebar nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc-sidebar nav a {
+  display: block;
+  padding: 7px 10px;
+  border-radius: 6px;
+  color: var(--sidebar-ink);
+  text-decoration: none;
+  font-size: 0.92rem;
+  border-left: 3px solid transparent;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.toc-sidebar nav a:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.toc-sidebar nav a.active {
+  background: rgba(138, 31, 45, 0.25);
+  border-left-color: var(--accent);
+  color: #fff;
+  font-weight: 600;
+}
+
+.toc-sidebar .print-btn {
+  display: inline-block;
+  margin-top: 24px;
+  width: 100%;
+  text-align: center;
+  padding: 9px 14px;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  letter-spacing: 0.02em;
+}
+
+.toc-sidebar .print-btn:hover { background: var(--accent-dark); }
+
+.toc-toggle {
+  display: none;
+}
+
+/* ---------- Main content column ---------- */
+
+.content-column {
+  flex: 1 1 auto;
+  display: flex;
+  justify-content: center;
+  padding: 48px 32px 120px;
+}
+
+.book {
+  width: 100%;
+  max-width: var(--max-width);
+}
+
+.book-cover {
+  text-align: center;
+  padding: 40px 20px 48px;
+  border-bottom: 4px solid var(--accent);
+  margin-bottom: 48px;
+}
+
+.book-cover h1 {
+  font-family: var(--font-head);
+  font-size: 2.6rem;
+  font-weight: 900;
+  color: var(--accent);
+  margin: 0 0 8px;
+}
+
+.book-cover p {
+  color: var(--ink-soft);
+  font-size: 1.05rem;
+  margin: 0;
+}
+
+/* Each chapter is its own "card" section, book-like */
+.chapter {
+  background: var(--paper-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 40px 48px;
+  margin-bottom: 40px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+.chapter > h1:first-child,
+.chapter > h2:first-child {
+  margin-top: 0;
+}
+
+/* ---------- Typography ---------- */
+
+.chapter h1, .chapter h2, .chapter h3, .chapter h4 {
+  font-family: var(--font-head);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.3;
+}
+
+.chapter h1 {
+  font-size: 1.9rem;
+  color: var(--accent);
+  border-bottom: 2px solid var(--accent-soft);
+  padding-bottom: 10px;
+  margin-top: 56px;
+}
+
+.chapter h2 {
+  font-size: 1.4rem;
+  margin-top: 40px;
+  color: var(--accent-dark);
+}
+
+.chapter h3 {
+  font-size: 1.15rem;
+  margin-top: 30px;
+}
+
+.chapter h4 {
+  font-size: 1rem;
+  margin-top: 24px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+}
+
+.chapter p { margin: 0 0 16px; }
+
+.chapter a { color: var(--accent); text-decoration: underline; text-decoration-color: var(--accent-soft); }
+.chapter a:hover { color: var(--accent-dark); }
+
+/* Lore / epigraph quotes */
+.chapter blockquote {
+  margin: 24px 0;
+  padding: 4px 22px;
+  border-left: 4px solid var(--accent);
+  background: var(--accent-soft);
+  color: var(--ink-soft);
+  font-style: italic;
+  border-radius: 0 6px 6px 0;
+}
+
+.chapter blockquote p { margin: 12px 0; }
+
+/* Feature / ability callouts, converted from ==**Name**== */
+.chapter strong.feature {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  padding: 1px 8px;
+  border-radius: 4px;
+  font-size: 0.95em;
+  font-weight: 700;
+  margin-right: 2px;
+}
+
+/* Tables */
+.chapter table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 0.95rem;
+}
+
+.chapter th {
+  background: var(--accent);
+  color: #fff;
+  text-align: left;
+  padding: 8px 12px;
+}
+
+.chapter td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.chapter tr:nth-child(even) td { background: #faf6f1; }
+
+/* Horizontal rule between major sections */
+.chapter hr {
+  border: none;
+  border-top: 1px dashed var(--border);
+  margin: 36px 0;
+}
+
+/* Inline code / WIP tags */
+.chapter code {
+  background: var(--accent-soft);
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+/* Footer edit link */
+.book-footer {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  margin-top: 24px;
+}
+
+.book-footer a { color: var(--accent); }
+
+/* ---------- Print styles: make it read like a PDF ---------- */
+
+@media print {
+  .toc-sidebar, .book-footer, .toc-toggle { display: none !important; }
+  .content-column { padding: 0; }
+  .page-shell { display: block; }
+  .book { max-width: 100%; }
+  .chapter {
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    padding: 0;
+    page-break-before: always;
+    margin-bottom: 0;
+  }
+  .chapter:first-child { page-break-before: avoid; }
+  body { font-size: 12pt; }
+  .chapter h1 { color: var(--ink); border-bottom-color: #ccc; }
+  .chapter strong.feature { background: none; color: var(--ink); border: 1px solid var(--ink); }
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 900px) {
+  .toc-sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    transform: translateX(-100%);
+    transition: transform 0.2s ease;
+    z-index: 50;
+    width: 260px;
+  }
+  .toc-sidebar.open { transform: translateX(0); }
+  .toc-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 16px;
+    left: 16px;
+    z-index: 60;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    font-size: 1.2rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  }
+  .content-column { padding: 88px 20px 100px; }
+  .chapter { padding: 28px 22px; }
+}

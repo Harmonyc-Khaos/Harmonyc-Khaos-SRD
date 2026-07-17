@@ -1,0 +1,54 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title | default: "Harmonyc Khaos SRD" }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  <button class="toc-toggle" aria-label="Toggle table of contents">☰</button>
+
+  <div class="page-shell">
+
+    <aside class="toc-sidebar">
+      <p class="site-title">{{ site.title | default: "Harmonyc Khaos" }}</p>
+      <p class="site-subtitle">System Reference Document</p>
+      <nav>
+        <ul>
+          {% assign chapters = site.chapters | sort: "order" %}
+          {% for chapter in chapters %}
+          <li><a href="#{{ chapter.slug }}">{{ chapter.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+      <button class="print-btn">Print / Save as PDF</button>
+    </aside>
+
+    <div class="content-column">
+      <main class="book">
+
+        <div class="book-cover">
+          <h1>{{ site.title | default: "Harmonyc Khaos" }}</h1>
+          <p>{{ site.description | default: "Table Top Roleplaying Game — System Reference Document" }}</p>
+        </div>
+
+        {{ content }}
+
+        <p class="book-footer">
+          This site is open source.
+          <a href="https://github.com/Harmonyc-Khaos/Harmonyc-Khaos">Improve this page</a>.
+        </p>
+
+      </main>
+    </div>
+
+  </div>
+
+  <script src="{{ '/assets/js/scrollspy.js' | relative_url }}"></script>
+</body>
+</html>
