@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 1: Introduction"
 order: 1
 slug: chapter-1

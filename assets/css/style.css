@@ -1,18 +1,18 @@
 /* ==========================================================================
-   Harmonyc Khaos SRD — Clean Modern Rulebook Theme
+   Harmonyc Khaos SRD — Dark Mode Rulebook Theme
    ========================================================================== */
 
 :root {
-  --accent: #8a1f2d;
-  --accent-dark: #631620;
-  --accent-soft: #f7e9ea;
-  --ink: #2a2622;
-  --ink-soft: #5a5450;
-  --paper: #fbf9f6;
-  --paper-card: #ffffff;
-  --border: #e7e0d8;
-  --sidebar-bg: #201d1b;
-  --sidebar-ink: #d9d2c8;
+  --accent: #8a1f75;
+  --accent-dark: #631645;
+  --accent-soft: #3a1230;      /* dark plum tint, replaces old light-pink surface */
+  --ink: #f3ede2;              /* main text: warm off-white */
+  --ink-soft: #b8afa0;         /* secondary text: warm light grey */
+  --paper: #17140f;            /* page background: near-black warm brown */
+  --paper-card: #221e17;       /* chapter "card" surface, a step lighter than page bg */
+  --border: #3a3327;           /* subtle dark border, visible against paper-card */
+  --sidebar-bg: #100e0a;       /* darkest layer, sits behind everything */
+  --sidebar-ink: #e9e2d4;
   --sidebar-ink-dim: #8f887f;
   --font-body: "Libre Baskerville", Georgia, "Times New Roman", serif;
   --font-head: "Libre Baskerville", Georgia, "Times New Roman", serif;
@@ -94,7 +94,7 @@ body {
 }
 
 .toc-sidebar nav a.active {
-  background: rgba(138, 31, 45, 0.25);
+  background: rgba(138, 31, 117, 0.25);
   border-left-color: var(--accent);
   color: #fff;
   font-weight: 600;
@@ -165,7 +165,7 @@ body {
   border-radius: 10px;
   padding: 40px 48px;
   margin-bottom: 40px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.25);
 }
 
 .chapter > h1:first-child,
@@ -193,7 +193,7 @@ body {
 .chapter h2 {
   font-size: 1.4rem;
   margin-top: 40px;
-  color: var(--accent-dark);
+  color: var(--accent);
 }
 
 .chapter h3 {
@@ -211,8 +211,8 @@ body {
 
 .chapter p { margin: 0 0 16px; }
 
-.chapter a { color: var(--accent); text-decoration: underline; text-decoration-color: var(--accent-soft); }
-.chapter a:hover { color: var(--accent-dark); }
+.chapter a { color: #d98cc6; text-decoration: underline; text-decoration-color: var(--accent-soft); }
+.chapter a:hover { color: #f0aede; }
 
 /* Lore / epigraph quotes */
 .chapter blockquote {
@@ -227,7 +227,7 @@ body {
 
 .chapter blockquote p { margin: 12px 0; }
 
-/* Feature / ability callouts */
+/* Feature / ability callouts, converted from ==**Name**== */
 .chapter strong.feature {
   display: inline-block;
   background: var(--accent);
@@ -256,9 +256,10 @@ body {
 .chapter td {
   padding: 8px 12px;
   border-bottom: 1px solid var(--border);
+  color: var(--ink);
 }
 
-.chapter tr:nth-child(even) td { background: #faf6f1; }
+.chapter tr:nth-child(even) td { background: rgba(255,255,255,0.03); }
 
 /* Horizontal rule between major sections */
 .chapter hr {
@@ -270,6 +271,7 @@ body {
 /* Inline code / WIP tags */
 .chapter code {
   background: var(--accent-soft);
+  color: var(--ink);
   padding: 1px 6px;
   border-radius: 4px;
   font-size: 0.9em;
@@ -284,14 +286,18 @@ body {
 
 .book-footer a { color: var(--accent); }
 
-/* ---------- Print styles --------- */
+/* ---------- Print styles: force a light, ink-friendly printout ---------- */
+/* Printing keeps a normal light page even though the on-screen theme is dark —
+   nobody wants a black-background PDF eating printer ink. */
 
 @media print {
   .toc-sidebar, .book-footer, .toc-toggle { display: none !important; }
   .content-column { padding: 0; }
   .page-shell { display: block; }
   .book { max-width: 100%; }
+  body { background: #ffffff !important; color: #1a1a1a !important; font-size: 12pt; }
   .chapter {
+    background: #ffffff !important;
     box-shadow: none;
     border: none;
     border-radius: 0;
@@ -300,9 +306,12 @@ body {
     margin-bottom: 0;
   }
   .chapter:first-child { page-break-before: avoid; }
-  body { font-size: 12pt; }
-  .chapter h1 { color: var(--ink); border-bottom-color: #ccc; }
-  .chapter strong.feature { background: none; color: var(--ink); border: 1px solid var(--ink); }
+  .chapter h1, .chapter h2, .chapter h3, .chapter h4 { color: #1a1a1a !important; }
+  .chapter h1 { border-bottom-color: #ccc; }
+  .chapter blockquote { background: #f4f4f4 !important; color: #333 !important; }
+  .chapter code { background: #eee !important; color: #1a1a1a !important; }
+  .chapter td { color: #1a1a1a !important; }
+  .chapter strong.feature { background: none; color: #1a1a1a !important; border: 1px solid #1a1a1a; }
 }
 
 /* ---------- Responsive ---------- */
@@ -334,7 +343,7 @@ body {
     color: #fff;
     border: none;
     font-size: 1.2rem;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.4);
   }
   .content-column { padding: 88px 20px 100px; }
   .chapter { padding: 28px 22px; }

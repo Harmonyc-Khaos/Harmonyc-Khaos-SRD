@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 2: Ancestries"
 order: 2
 slug: chapter-2
