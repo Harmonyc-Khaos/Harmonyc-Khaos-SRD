@@ -14,12 +14,13 @@
   --sidebar-bg: #201d1b;
   --sidebar-ink: #d9d2c8;
   --sidebar-ink-dim: #8f887f;
-  --font-body: "Source Sans Pro", "Segoe UI", Helvetica, Arial, sans-serif;
-  --font-head: "Merriweather", Georgia, "Times New Roman", serif;
+  --font-body: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  --font-head: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  --font-ui: "Segoe UI", Helvetica, Arial, sans-serif;
   --max-width: 780px;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&family=Source+Sans+Pro:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 * { box-sizing: border-box; }
 
@@ -34,7 +35,7 @@ body {
   line-height: 1.65;
 }
 
-/* ---------- Page shell: sidebar + content ---------- */
+/* ---------- Page shell ---------- */
 
 .page-shell {
   display: flex;
@@ -54,7 +55,7 @@ body {
 
 .toc-sidebar .site-title {
   font-family: var(--font-head);
-  font-weight: 900;
+  font-weight: 700;
   font-size: 1.25rem;
   color: #fff;
   margin: 0 0 4px;
@@ -62,6 +63,7 @@ body {
 }
 
 .toc-sidebar .site-subtitle {
+  font-family: var(--font-ui);
   font-size: 0.8rem;
   color: var(--sidebar-ink-dim);
   margin: 0 0 24px;
@@ -81,6 +83,7 @@ body {
   border-radius: 6px;
   color: var(--sidebar-ink);
   text-decoration: none;
+  font-family: var(--font-ui);
   font-size: 0.92rem;
   border-left: 3px solid transparent;
   transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
@@ -107,6 +110,7 @@ body {
   color: #fff;
   border: none;
   border-radius: 6px;
+  font-family: var(--font-ui);
   font-size: 0.85rem;
   font-weight: 600;
   cursor: pointer;
@@ -143,7 +147,7 @@ body {
 .book-cover h1 {
   font-family: var(--font-head);
   font-size: 2.6rem;
-  font-weight: 900;
+  font-weight: 700;
   color: var(--accent);
   margin: 0 0 8px;
 }
@@ -223,7 +227,7 @@ body {
 
 .chapter blockquote p { margin: 12px 0; }
 
-/* Feature / ability callouts, converted from ==**Name**== */
+/* Feature / ability callouts */
 .chapter strong.feature {
   display: inline-block;
   background: var(--accent);
@@ -235,7 +239,6 @@ body {
   margin-right: 2px;
 }
 
-/* Tables */
 .chapter table {
   width: 100%;
   border-collapse: collapse;
@@ -272,7 +275,6 @@ body {
   font-size: 0.9em;
 }
 
-/* Footer edit link */
 .book-footer {
   text-align: center;
   font-size: 0.85rem;
@@ -282,7 +284,7 @@ body {
 
 .book-footer a { color: var(--accent); }
 
-/* ---------- Print styles: make it read like a PDF ---------- */
+/* ---------- Print styles --------- */
 
 @media print {
   .toc-sidebar, .book-footer, .toc-toggle { display: none !important; }
