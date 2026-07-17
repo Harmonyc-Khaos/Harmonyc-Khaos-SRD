@@ -31,7 +31,7 @@ The Homonis are ambitious and versatile people with limitless potential. They ar
 A Homonis character has an additional 4 **Health Points**. They are some of the most fragile beings in **The New World** and a well placed strike from a dagger is usually enough to end their lives. Like every other being in **Harmonia Chaos**, they have access to Mana which grants them 1 **Mana Point** which they cannot use without the knowledge on how to do so.
 
 ### Stats
-Your **movement speed** is 9 m/𝐑 (9 meters per round).
+Your **movement speed** is 9 m/**R{: .notation title="Round"}**
 Your **Evasion** stat is 8.
 (WIP)
 

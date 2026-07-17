@@ -11,7 +11,7 @@
   --paper: #0f0e0f;            /* page background */
   --paper-card: #1e191d;       /* chapter card surface */
   --border: #a1a1a1;           
-  --sidebar-bg: #100e0a;      
+  --sidebar-bg: #151114;      
   --sidebar-ink: #e9e2d4;
   --sidebar-ink-dim: #8f887f;
   --font-body: "Libre Baskerville", Georgia, "Times New Roman", serif;
@@ -264,6 +264,24 @@ body {
   font-size: 0.95em;
   font-weight: 700;
   margin-right: 2px;
+}
+
+.chapter strong.notation {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.4em;
+  height: 1.4em;
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 0.8em;
+  line-height: 1;
+  background: var(--accent-soft);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  vertical-align: middle;
+  cursor: help;
 }
 
 .chapter table {
