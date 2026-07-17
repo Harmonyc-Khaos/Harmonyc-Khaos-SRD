@@ -89,34 +89,55 @@ Blonde and blue/green eyes. Some branch members are known to be dark skinned.
 
 If you choose this heritage your **Affinity** becomes **Water**.
 
-<ins>**Saint Sense**</ins>
+<div class="ability-card" markdown="1">
+
+**Saint Sense**{: .feature}
 An ability gifted to House Neviel by Him. 
-<ins>**Asperges**</ins>
+
+</div>
+
+<div class="ability-card" markdown="1">
+
+**Asperges**{: .feature}
 An ability gifted to House Neviel by Him. By maintaining physical contact with a source of water, you may transmute that source of water into **blessed water**. You can transmute up to X liters every hour at the rate of.
+
+</div>
 
 ### House Malkahiel (The Mother)
 Cunning, social and elegant.
 If you choose this heritage your **Affinity** becomes **Ice**.
 
-<ins>**Gossip Keeper**</ins>
+<div class="ability-card" markdown="1">
+
+**Gossip Keeper**{: .feature}
 When you succeed a **Proficiency Test** that uses **Charisma** while engaging with a dweller, you gain favor with the respective dweller that you were interacting with, granting you a +1 bonus on all future **Charisma-based** interactions with that individual. This effect stacks up to a maximum equal to your **Charisma modifier** for each different individual that it is active on. This effect is nullified if you cause that dweller to become hostile towards you. This effect counts as being under a '**Charmed**' **ailment** but it cannot be detected by magic.
+
+</div>
 
 ### House Melechiel (The Father)
 Charismatic and Pragmatic.
 If you choose this heritage your **Affinity** becomes **Lightning**.
 
-<ins>**Sovereign's Call**</ins>
+<div class="ability-card" markdown="1">
+
+**Sovereign's Call**{: .feature}
 As a ⬢ action, you can grant a number of dwellers (up to your Charisma modifier) bonus to **accuracy**, **damage**, **damage reduction** and **evasion** until the end of their next round. This bonus is equal your **Oration** value.
 
 You must complete a rest before you use this feature again.
+
+</div>
 
 ### House Gadoliel (The Advocate)
 Quiet and wise.
 If you choose this heritage your **Affinity** becomes **Nature**.
 
-<ins>**Inspiring Prayer**</ins>
+<div class="ability-card" markdown="1">
+
+**Inspiring Prayer**{: .feature}
 (WIP) <s>Guidance cantrip. </s>
 During **training**, if you are **tutoring** a proficiency skill to a dweller whose **tier of proficiency** for that skill is lower than yours, they can add your Wisdom modifier to their  rolls (min. 1).
+
+</div>
 
 ### House Ahaviel (The Linked)
 Obsessive and charming.
@@ -125,11 +146,15 @@ Warm colored eyes and hair, with the eyes sometimes shifting to colder colors (p
 
 If you choose this heritage your **Affinity** becomes **Life**.
 
-<ins>**Eternal Love**</ins>
+<div class="ability-card" markdown="1">
+
+**Eternal Love**{: .feature}
 You create a **Vow** between you and another dweller of your choice known as the **Vow of Eternal Love**.
 You choose a target of your affection (consent has to be agreed upon between you and another player character if you choose them); until death of either dweller: damage taken, **conditions**, **permanent injuries** and the effects of **banes** are shared between the both of them and so are skill/spell effects, regaining hit points from any sources and the effects of **boons**.
 
 (WIP) <s>The difficulty of any effect that you have to roll for Charm (that isn't the target of your affection) is halved (rounded up).</s>
+
+</div>
 
 ### House Merkaviel (The Gallant)
 Stubborn and loyal
@@ -138,7 +163,11 @@ Silver hair with bluish/purple eyes, sometimes **black sheep** are born with bla
 
 If you choose this heritage your **Affinity** becomes **Air**.
 
-<ins>**(WIP)**</ins>
+<div class="ability-card" markdown="1">
+
+**(WIP)**{: .feature}
+
+</div>
 
 ### House Chozekiel (The Strong)
 Menancing but good hearted
@@ -147,7 +176,11 @@ Dark brown hair and eyes. Rough physical features. Rarely produce gingers (red h
 
 If you choose this heritage your **Affinity** becomes **Earth**.
 
-<ins>**Goliath**</ins>
+<div class="ability-card" markdown="1">
+
+**Goliath**{: .feature}
+
+</div>
 
 ### House Bodediel (The Ascetic)
 Timid and avoidant
@@ -156,7 +189,11 @@ Scrawny, usuaslly pale, with neutral colored hair and eyes, most commonly grays.
 
 If you choose this heritage your **Affinity** becomes **Nature**.
 
-<ins>**Solitude**</ins>
+<div class="ability-card" markdown="1">
+
+**Solitude**{: .feature}
+
+</div>
 
 
 ### House Goraliel (The Fate)
@@ -166,5 +203,9 @@ Any color of hair, skin or eyes, one eye or two have a 'wheel' pattern embedded 
 
 If you choose this heritage your **Affinity** becomes **Air**.
 
-<ins>**Twist of Fate**</ins>
+<div class="ability-card" markdown="1">
+
+**Twist of Fate**{: .feature}
 As a **Rebuttal**; whenever a dweller that you are aware of within 9 meters of you (including yourself) makes a **D20 Roll**, you may add or remove a 1d10 to that roll.
+
+</div>
