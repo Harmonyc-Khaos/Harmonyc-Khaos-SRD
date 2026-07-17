@@ -69,7 +69,6 @@ Their forebears, the Immanis, didn't believe in granting names to their creation
 <li>Tatyana</li>
 </ul>
 </div>
-</div>
 
 Depending on your heritage, you may also inherit a family name which will be described in each heritage's section.
 
