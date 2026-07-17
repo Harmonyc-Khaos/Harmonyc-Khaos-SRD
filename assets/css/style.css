@@ -5,13 +5,13 @@
 :root {
   --accent: #8a1f75;
   --accent-dark: #631645;
-  --accent-soft: #3a1230;      /* dark plum tint, replaces old light-pink surface */
-  --ink: #f3ede2;              /* main text: warm off-white */
-  --ink-soft: #b8afa0;         /* secondary text: warm light grey */
-  --paper: #17140f;            /* page background: near-black warm brown */
-  --paper-card: #575656;       /* chapter "card" surface, a step lighter than page bg */
-  --border: #898989;           /* subtle dark border, visible against paper-card */
-  --sidebar-bg: #100e0a;       /* darkest layer, sits behind everything */
+  --accent-soft: #3a1230;      
+  --ink: #f3ede2;              /* main text */
+  --ink-soft: #b8afa0;         /* secondary text */
+  --paper: #17140f;            /* page background */
+  --paper-card: #1b1616;       /* chapter card surface */
+  --border: #a1a1a1;           
+  --sidebar-bg: #100e0a;      
   --sidebar-ink: #e9e2d4;
   --sidebar-ink-dim: #8f887f;
   --font-body: "Libre Baskerville", Georgia, "Times New Roman", serif;
@@ -285,9 +285,7 @@ body {
 
 .book-footer a { color: var(--accent); }
 
-/* ---------- Print styles: force a light, ink-friendly printout ---------- */
-/* Printing keeps a normal light page even though the on-screen theme is dark —
-   nobody wants a black-background PDF eating printer ink. */
+/* ---------- Print styles ---------- */
 
 @media print {
   .toc-sidebar, .book-footer, .toc-toggle { display: none !important; }
