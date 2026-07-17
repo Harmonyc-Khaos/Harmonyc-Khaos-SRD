@@ -322,6 +322,44 @@ body {
   font-size: 0.9em;
 }
 
+.chapter .name-list {
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.chapter .name-group {
+  flex: 1 1 200px;
+}
+
+.chapter .name-group-title {
+  margin: 0 0 8px;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+}
+
+.chapter .name-group ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.chapter .name-group li {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 3px 10px;
+  font-size: 0.92rem;
+}
+
 .book-footer {
   text-align: center;
   font-size: 0.85rem;
