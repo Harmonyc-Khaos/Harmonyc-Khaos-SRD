@@ -9,8 +9,8 @@
   --ink: #f3ede2;              /* main text: warm off-white */
   --ink-soft: #b8afa0;         /* secondary text: warm light grey */
   --paper: #17140f;            /* page background: near-black warm brown */
-  --paper-card: #221e17;       /* chapter "card" surface, a step lighter than page bg */
-  --border: #3a3327;           /* subtle dark border, visible against paper-card */
+  --paper-card: #575656;       /* chapter "card" surface, a step lighter than page bg */
+  --border: #898989;           /* subtle dark border, visible against paper-card */
   --sidebar-bg: #100e0a;       /* darkest layer, sits behind everything */
   --sidebar-ink: #e9e2d4;
   --sidebar-ink-dim: #8f887f;
@@ -158,7 +158,6 @@ body {
   margin: 0;
 }
 
-/* Each chapter is its own "card" section, book-like */
 .chapter {
   background: var(--paper-card);
   border: 1px solid var(--border);
@@ -227,7 +226,7 @@ body {
 
 .chapter blockquote p { margin: 12px 0; }
 
-/* Feature / ability callouts, converted from ==**Name**== */
+/* Feature / ability callouts */
 .chapter strong.feature {
   display: inline-block;
   background: var(--accent);
