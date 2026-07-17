@@ -220,13 +220,16 @@ body {
 .chapter h3 {
   font-size: 1.15rem;
   margin-top: 30px;
+  margin-left: 8px;
+  color: #c17bb0;
   border-left: 4px solid var(--accent);
-  padding-left: 12px;
+  padding-left: 16px;
 }
 
 .chapter h4 {
   font-size: 1rem;
   margin-top: 24px;
+  margin-left: 24px;
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: var(--ink-soft);
@@ -252,7 +255,6 @@ body {
 
 .chapter blockquote p { margin: 12px 0; }
 
-/* Feature / ability callouts */
 .chapter strong.feature {
   display: inline-block;
   background: var(--accent);

@@ -3,8 +3,6 @@ description: SRD for the Harmonyc Khaos Table Top Roleplaying Game
 url: "https://harmonyc-khaos.github.io"
 baseurl: "/Harmonyc-Khaos"
 
-# Turns your loose chapter files into a Jekyll collection called `site.chapters`,
-# which index.md loops over to build the one-page book.
 collections:
   chapters:
     output: false
@@ -17,8 +15,12 @@ defaults:
     values:
       layout: none
 
-# Nothing outside _chapters, _layouts, assets, index.md, LICENSE and this file
-# needs to be processed — keeps the build clean.
+
+kramdown:
+  input: GFM
+  parse_block_html: true
+
+
 exclude:
   - README.md
   - SETUP.md

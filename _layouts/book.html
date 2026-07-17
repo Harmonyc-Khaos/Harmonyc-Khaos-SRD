@@ -5,8 +5,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ site.title | default: "Harmonyc Khaos SRD" }}</title>
+  <title>Harmonyc Khaos SRD</title>
   <meta name="description" content="{{ site.description }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
@@ -30,15 +31,16 @@
           {% endfor %}
         </ul>
       </nav>
-      <button class="print-btn">Print / Save as PDF</button>
+      <button class="print-btn">Save as PDF</button>
     </aside>
 
     <div class="content-column">
       <main class="book">
 
         <div class="book-cover">
-          <h1>{{ site.title | default: "Harmonyc Khaos" }}</h1>
-          <p>{{ site.description | default: "Table Top Roleplaying Game — System Reference Document" }}</p>
+          <h1>Harmonyc Khaos</h1>
+          <p>System Reference Document</p>
+          <img src="{{ '/assets/images/hk4icon.png' | relative_url }}" alt="Harmonyc Khaos logo" style="max-width: 100%; width: 100%; max-height: 400px; object-fit: contain; margin: 24px auto 0; display: block;">
         </div>
 
         {{ content }}
