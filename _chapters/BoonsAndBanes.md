@@ -1,7 +1,7 @@
 ---
-title: "Chapter 5: Boons & Banes"
-order: 5
-slug: chapter-5
+title: "Chapter 6: Boons & Banes"
+order: 6
+slug: chapter-6
 ---
 
-# Chapter 5: Boons & Banes
+# Chapter 6: Boons & Banes

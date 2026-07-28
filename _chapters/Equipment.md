@@ -1,7 +1,7 @@
 ---
-title: "Chapter 6: Equipment"
-order: 6
-slug: chapter-6
+title: "Chapter 7: Equipment"
+order: 7
+slug: chapter-7
 ---
 
-# Chapter 6: Equipment
+# Chapter 7: Equipment
