@@ -1,7 +1,7 @@
 ---
-title: "Chapter 4: Arts & Mana"
-order: 4
-slug: chapter-4
+title: "Chapter 5: Arts & Mana"
+order: 5
+slug: chapter-5
 ---
 
-# Chapter 4: Arts & Mana
+# Chapter 5: Arts & Mana
