@@ -20,7 +20,9 @@ kramdown:
   input: GFM
   parse_block_html: true
 
-
+plugins:
+  - jekyll-sitemap
+  
 exclude:
   - README.md
   - SETUP.md
