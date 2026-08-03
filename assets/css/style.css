@@ -1,6 +1,7 @@
 /* ==========================================================================
    Harmonyc Khaos SRD — Dark Mode Rulebook Theme
    ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
   --accent: #9e008e;
@@ -19,8 +20,6 @@
   --font-ui: "Segoe UI", Helvetica, Arial, sans-serif;
   --max-width: 780px;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 * { box-sizing: border-box; }
 
