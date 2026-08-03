@@ -1,6 +1,7 @@
 ---
 layout: book
 title: Harmonyc-Khaos
+last_modified_at: 2026-08-04
 ---
 
 {% assign chapters = site.chapters | sort: "order" %}
