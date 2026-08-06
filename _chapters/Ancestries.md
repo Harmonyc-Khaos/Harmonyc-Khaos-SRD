@@ -214,6 +214,7 @@ If you choose this heritage your **Affinity** becomes **Nature**.
 <div class="ability-card" markdown="1">
 
 **Solitude**{: .feature}
+As a ⬢ action you may go **invisible** provided that you are not within sight of any dweller.
 
 </div>
 
