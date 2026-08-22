@@ -6,7 +6,7 @@ slug: chapter-2
 
 # Chapter 2: Ancestries
 
-> "The roots of all creation trace back to the Three Greats; the **Immanis** shaped the lands with their creativity and power, mimicking the **All-Mother** who had created their world; the **Dracae** were let loose to cause destruction and control progress through the infliction of chaos; and the **Anima** became the overseers that ensured that balance was preserved. Following the **Clash of the Worlds** and the birth of **Harmonia Chaos**, the Three Greats were freed from their duties but with dwindling power they decided to follow in the footsteps of the All-Mother and birth progenitors which they would rule over much like they themselves were. With the help of the **Primordials**, who had been forced to take the mantle of maintaining the existence of the **New World**, they created the **dwellers** of Harmonia Chaos."
+> "The roots of all creation trace back to the Three Greats; the **Immanis** shaped the lands with their creativity and power, mimicking the **All-Mother** who had created their world; the **Dracae** were let loose to cause destruction and control progress through the infliction of chaos; and the **Anima** became the overseers that ensured that balance was preserved. Following the **Clash of the Worlds** and the birth of **Haros**, the Three Greats were freed from their duties but with dwindling power they decided to follow in the footsteps of the All-Mother and birth progenitors which they would rule over much like they themselves were. With the help of the **Primordials**, who had been forced to take the mantle of maintaining the existence of the **New World**, they created the **dwellers** of Haros."
 
 An ancestry consists of shared physical traits shared between your character and the ones they descend from, which may be key parts of your character's identity and how they see and integrate with the world around them. A character belongs to a single **Ancestry**, you may choose to play as one of the available options presented below during character creation. Additionally, each ancestry also may possess **heritages** and **traits**. The former includes abilities that are signature to a specific branch of your ancestry and are part of what defines your culture and can be seen as either a gift or a curse by those who inherit them; while the latter describes your ancestry's characteristics, abilities, qualities and flaws. With each ancestry also comes the knowledge on how to speak that ancestry's primary **language**, which can be overwritten by your heritage.
 
@@ -22,21 +22,25 @@ An ancestry consists of shared physical traits shared between your character and
 > 
 > A couple decades later, the Homonis became the strongest military force in the world and would go on to not only unify all of their people into one nation in Vinctora but also start looking into expanding their territory which led to bloody wars between them and the **Highborn** progenitors of the Anima.
 > 
-> Half-way into the **Promised Millennium**, the Homonis empire has developed into **The Triumph**, a theocratic nation ruled over by the descendants of the **Twenty Hero Kings** which is both respected and feared by all dwellers of Harmonia Chaos. Their ambitions of conquest have been put on hold as a treaty of peace has been signed between them and the **Kingdom States of Coreus** as both set their sights on the growing threat south of them, **Aeterum**, the land where dwells the children of **Aeterys**, the Primordial of Darkness.
+> Half-way into the **Promised Millennium**, the Homonis empire has developed into **The Triumph**, a theocratic nation ruled over by the descendants of the **Twenty Hero Kings** which is both respected and feared by all dwellers of Haros. Their ambitions of conquest have been put on hold as a treaty of peace has been signed between them and the **Kingdom States of Coreus** as both set their sights on the growing threat south of them, **Aeterum**, the land where dwells the children of **Aeterys**, the Primordial of Darkness.
 
 The Homonis are ambitious and versatile people with limitless potential. They are mostly found inhabiting the continent of Vinctora as they were originally created by the Immanis within that land but their conquests in the last half-millennium have taken their people to integrate slightly into both Coreus and **Oberona** as well as the many archipelagos found between the two. Due to their short lifespans that are more comparable to **Lowborn** dwellers, they tend to strive to leave big vestiges of their existence in the world during their short window of activity. Thanks to the blessings they received during Revelation, their prowess in controlling **Mana** is on par with a Highborn dweller which can cause a Homonis to become conceited and lead to their downfall. They tend to make good orators and diplomats.
 
 ## Traits
 ### Health and Mana
-A Homonis character has an additional 4 **Health Points**. They are some of the most fragile beings in **The New World** and a well placed strike from a dagger is usually enough to end their lives. Like every other being in **Harmonia Chaos**, they have access to Mana which grants them 1 **Mana Point** which they cannot use without the knowledge on how to do so.
+A Homonis character has an additional 4 **Health Points**. They are some of the most fragile beings in **The New World** and a well placed strike from a dagger is usually enough to end their lives. Like every other being in **Haros**, they have access to Mana which grants them 1 **Mana Point** which they cannot use without the knowledge on how to do so.
 
 ### Stats
-Your **movement speed** is 9 m/**R**{: .notation title="Round"}
-Your **Evasion** stat is 8.
-(WIP)
+You gain 3 additional stat points and you may add them to any attribute of your choice.
+
+Your base **movement speed** is 9 m/**R**{: .notation title="Round"}
+
+Your base **Evasion** stat is 8.
+
+You may choose to be either **Small** or **Medium** size.
 
 ### Physical Characteristics
-The Homonis are bipedal dwellers made of flesh, blood and bones like most. Built to mimic the form of their creators, they possess two arms and have rounded ears but unlike the Immanis, their skin tones only range from a pale white to a dark brown which is a trait that developed over millennia based on how their skin was subjected to the light of the **Great Star**. They achieve physical maturity in their mid to late teen years and live to be as old as about a century.
+The Homonis are bipedal dwellers made of flesh, blood and bones like most. Built to mimic the form of their creators, they possess two arms and have rounded ears but, unlike the Immanis, their skin tones only range from a pale white to a dark brown which is a trait that developed over millennia based on how their skin was subjected to the light of the **Great Star**. They achieve physical maturity in their mid to late teen years and live to be as old as about a century.
 
 ### Alignment
 Due to the influence of **Him** on their species, they are from a young age guided to be **Lawful** and their **Karma** wildly varies from individual to individual, some taking undeniably evil actions for the sake of their duties within the empire while others spread love, compassion and forgiveness even with the dwellers whose faith does not lie with Him. Even so there are some outliers that due to a variety of circumstances are corrupted into becoming some of the most wicked dwellers in existence.
@@ -98,7 +102,7 @@ If you choose this heritage your **Affinity** becomes **Arcane**.
 **Arcane Foresight**{: .feature}
 The ability gifted to House Kosemiel by Him. It allows them to unlock the power to enhance their perception of time and space in a surge of power, granting them the ability to analyze the situation, draw from their well of knowledge and calculate how they can exploit their current predictament in order to guarantee themselves an advantage that may prove critical to their victory, be it in battle or otherwise.
 
-At the start of your turn, you may expend 1 Mana to gain a ⬡ token. until the end of the current round. If you are capable of using 3rd-tier skills or cast 3rd-tier or higher spells, you can instead expend 3 Mana to gain a ⬢ token.
+At the start of your turn, you may expend 1 Mana to gain a ⬡ token. until the end of the current round. If you are capable of using 3rd-tier arts or cast 3rd-tier or higher spells, you can instead expend 3 Mana to gain a ⬢ token.
 
 You must complete a rest before you use this feature again.
 
@@ -114,7 +118,7 @@ If you choose this heritage your **Affinity** becomes **Water**.
 <div class="ability-card" markdown="1">
 
 **Saint Sense**{: .feature}
-An ability gifted to House Neviel by Him. 
+An ability gifted to House Neviel by Him. As an action, 
 
 </div>
 
@@ -172,7 +176,7 @@ If you choose this heritage your **Affinity** becomes **Life**.
 
 **Eternal Love**{: .feature}
 You create a **Vow** between you and another dweller of your choice known as the **Vow of Eternal Love**.
-You choose a target of your affection (consent has to be agreed upon between you and another player character if you choose them); until death of either dweller: damage taken, **conditions**, **permanent injuries** and the effects of **banes** are shared between the both of them and so are skill/spell effects, regaining hit points from any sources and the effects of **boons**.
+You choose a target of your affection (consent has to be agreed upon between you and another player character if you choose them); until death of either dweller: damage taken, **conditions**, **permanent injuries** and the effects of **banes** are shared between the both of them and so are **magical effects**, regaining hit points from any sources and the effects of **boons**.
 
 (WIP) <s>The difficulty of any effect that you have to roll for Charm (that isn't the target of your affection) is halved (rounded up).</s>
 
