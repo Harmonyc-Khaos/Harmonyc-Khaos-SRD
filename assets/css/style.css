@@ -376,6 +376,11 @@ body {
   border-radius: 10px;
   overflow: hidden;
   margin: 24px 0;
+  position: relative;
+  background-color: #2a1f18;
+  background-image:
+    url("https://www.transparenttextures.com/patterns/paper-fibers.png");
+  background-repeat: repeat;
 }
 
 .chapter .spell-header {
@@ -396,6 +401,23 @@ body {
   font-weight: 700;
   font-size: 1.1rem;
   color: #fff;
+}
+
+.chapter .spell-tag-group {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.chapter .spell-tag-group-label {
+  font-family: var(--font-ui);
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: rgba(255,255,255,0.5);
+  margin-right: 2px;
 }
 
 .chapter .spell-level {
