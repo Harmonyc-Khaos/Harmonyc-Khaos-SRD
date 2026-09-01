@@ -28,8 +28,8 @@ WIP
 * Escaping
 * Climbing (STR+AGI)
 * Swimming (STR+AGI)
-* Flight
-* Riding
+* Flight (AGI)
+* Riding (AGI+WIS)
 
 ## Magic Proficiency
 ### Enhancement
@@ -76,7 +76,6 @@ WIP
 * Persuasion (CHA)
 * Religion (INT+SPI)
 * Repairing (STR+DEX)
-* Riding (AGI+WIS)
 * Scribing (DEX+INT)
 * Singing (WIL+CHA)
 * Sleight of Hand (DEX)
