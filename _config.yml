@@ -5,7 +5,7 @@ baseurl: "/Harmonyc-Khaos-SRD"
 
 collections:
   chapters:
-    output: false
+    output: true
     sort_by: order
 
 defaults:
