@@ -17,7 +17,7 @@ defaults:
 
 
 kramdown:
-  input: GFM
+  input: kramdown
   parse_block_html: true
 
 plugins:
