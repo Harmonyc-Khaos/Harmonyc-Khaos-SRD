@@ -8,3 +8,20 @@ slug: chapter-3
 
 > "(WIP)"
 
+"(WIP)".
+
+## The Warrior
+
+## The Brawler
+
+## The Rogue
+
+## The Mage
+
+## The Devout
+
+## The Disciple
+
+## The Artist
+
+## The Scion
