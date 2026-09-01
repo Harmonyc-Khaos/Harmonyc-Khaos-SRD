@@ -23,18 +23,33 @@ Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that att
 
 ## Spells
 
-### **Firebolt**
-**Cantrip | Transmutation/Emission | Affinity: Fire | Sources: Arcane, Inherit**
-
-Cast Time: ⬢
-Range: 60 ft.
-Components: V, S
-Duration: Instant
-
-
+<div class="spell-card" markdown="0">
+<div class="spell-header">
+<div class="spell-title-row">
+<span class="spell-name">Fire Bolt</span>
+<span class="spell-level">Cantrip</span>
+</div>
+<div class="spell-tags">
+<span class="spell-tag">Transmutation</span>
+<span class="spell-tag">Emission</span>
+<span class="spell-tag">Fire</span>
+<span class="spell-tag">Arcane</span>
+<span class="spell-tag">Inherit</span>
+</div>
+</div>
+<div class="spell-meta">
+<div class="spell-meta-row"><span class="spell-meta-label">Cast</span><span class="spell-meta-value">⬢</span></div>
+<div class="spell-meta-row"><span class="spell-meta-label">Range</span><span class="spell-meta-value">60 ft.</span></div>
+<div class="spell-meta-row"><span class="spell-meta-label">Components</span><span class="spell-meta-value">V S</span></div>
+<div class="spell-meta-row"><span class="spell-meta-label">Duration</span><span class="spell-meta-value">Instant</span></div>
+</div>
+<div class="spell-body">
 You hurl a flame at a creature of your choice within range. Make a ranged spell attack, on a hit the target creature takes 1d8 fire damage.
-
-**Overcast**: By expending an additional ⬡, you can set the target ablaze.
+</div>
+<div class="spell-footer overcast">
+<span class="spell-footer-label">Overcast</span> By expending an additional ⬡, you can set the target ablaze.
+</div>
+</div>
 
 ### **Project Weapon**
 **3rd Level | Conjuration | Affinity: Arcane | Sources: Arcane, Expression, Vow**
