@@ -8,20 +8,24 @@ slug: chapter-3
 
 > "(WIP)"
 
-"(WIP)".
+(WIP)
 
-## The Warrior
+## Tier 0 Archetypes
 
-## The Brawler
+(WIP)
 
-## The Rogue
+### The Warrior
 
-## The Mage
+### The Brawler
 
-## The Devout
+### The Rogue
 
-## The Disciple
+### The Mage
 
-## The Artist
+### The Devout
 
-## The Scion
+### The Disciple
+
+### The Artist
+
+### The Scion

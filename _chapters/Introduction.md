@@ -27,11 +27,11 @@ slug: chapter-1
 >     
 > After a few more millenia, everything slowly came into a state of relative stability, though, as descendants of the Great Deceiver, there is evil present in the hearts of every dweller of this world, which could escalate into another apocalyptic event if one were to give in to the twisted desire of watching the world burn.
 
-The **Harmonyc Khaos TTRPG** takes place in the 5th Epoch of All-Mother Mane's world; a world where the descendants of deities co-exist in a single planet that centers the surrounding universe called **"Harmonia Chaos"**. This book speaks primarily of the timeline between 200 and 600 AR (After Revelation), following **"The World Calendar"** which is the most popular calendar of that time, having been invented by the Homonis people, which are the closest dwellers to  real-life humans in this world.
+The **Harmonyc Khaos TTRPG** takes place in the 5th Epoch of All-Mother Mane's world; a world where the descendants of deities co-exist in a single planet that centers the surrounding universe called **"Haros"**. This book speaks primarily of the timeline between 200 and 600 AR (After Revelation), following **"The World Calendar"** which is the most popular calendar of that time, having been invented by the Homonis people, which are the closest dwellers to  real-life humans in this world.
 
 The Game Master and the players shall decide in which age the adventures and story they wish to tell takes place in or if they instead decide to play through a pre-written adventure they will encounter the necessary information present in that module.
 
-Indepent of which age you choose to play in, you will always find adventure to be had in the world of Harmonia Chaos, be it exploring the ruins of lost empires, joining a military operation to conquer territory and make your nation proud, or making a dashing escape from prison after being imprisoned for a crime you may or may have not committed.
+Indepent of which age you choose to play in, you will always find adventure to be had in the world of Haros, be it exploring the ruins of lost empires, joining a military operation to conquer territory and make your nation proud, or making a dashing escape from prison after being imprisoned for a crime you may or may have not committed.
 
 ## How To Play
 As explained in the preface, a table-top roleplaying game is a storytelling game defined by the meeting of players, be it in-person or online, where they collaborate together to create a narrative that they navigate as a group and are guided by one of the players that takes on the role of both the narrator and the characters that aren't the ones being played by the other players, known as NPCs.
