@@ -25,8 +25,4 @@ Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that att
 
 ### Fire Bolt
 
-{% include spells/fire-bolt.html %}
-
 ### Project Weapon
-
-{% include spells/project-weapon.html %}
