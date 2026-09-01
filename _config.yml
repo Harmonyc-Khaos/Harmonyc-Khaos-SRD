@@ -5,7 +5,7 @@ baseurl: "/Harmonyc-Khaos-SRD"
 
 collections:
   chapters:
-    output: true
+    output: false
     sort_by: order
 
 defaults:
@@ -17,7 +17,7 @@ defaults:
 
 
 kramdown:
-  input: kramdown
+  input: GFM
   parse_block_html: true
 
 plugins:

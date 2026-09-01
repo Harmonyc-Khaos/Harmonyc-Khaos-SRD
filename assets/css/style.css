@@ -242,7 +242,7 @@ body {
 .chapter a { color: #d98cc6; text-decoration: underline; text-decoration-color: var(--accent-soft); }
 .chapter a:hover { color: #f0aede; }
 
-/* ---------- Lore / epigraph quotes ---------- */
+/* Lore / epigraph quotes */
 .chapter blockquote {
   margin: 24px 0;
   padding: 4px 22px;
@@ -306,14 +306,14 @@ body {
 
 .chapter tr:nth-child(even) td { background: rgba(255,255,255,0.03); }
 
-/*----------  Horizontal rule between major sections ---------- */
+/* Horizontal rule between major sections */
 .chapter hr {
   border: none;
   border-top: 1px dashed var(--border);
   margin: 36px 0;
 }
 
-/* ---------- Inline code / WIP tags ---------- */
+/* Inline code / WIP tags */
 .chapter code {
   background: var(--accent-soft);
   color: var(--ink);
@@ -368,207 +368,6 @@ body {
 }
 
 .book-footer a { color: var(--accent); }
-
-/* ---------- Spell cards ---------- */
-
-.chapter .spell-card {
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  overflow: hidden;
-  margin: 24px 0;
-  position: relative;
-  background-color: #2a1f18;
-  background-image:
-    url("https://www.transparenttextures.com/patterns/paper-fibers.png");
-  background-repeat: repeat;
-}
-
-.chapter .spell-header {
-  background: var(--accent);
-  padding: 10px 18px;
-}
-
-.chapter .spell-title-row {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 12px;
-  margin-bottom: 6px;
-}
-
-.chapter .spell-name {
-  font-family: var(--font-head);
-  font-weight: 700;
-  font-size: 1.1rem;
-  color: #fff;
-}
-
-.chapter .spell-tag-group {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  flex-wrap: wrap;
-}
-
-.chapter .spell-tag-group-label {
-  font-family: var(--font-ui);
-  font-size: 0.65rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: rgba(255,255,255,0.5);
-  margin-right: 2px;
-}
-
-.chapter .spell-level {
-  font-family: var(--font-ui);
-  font-size: 0.8rem;
-  font-weight: 700;
-  color: rgba(255,255,255,0.75);
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  white-space: nowrap;
-}
-
-.chapter .spell-tags {
-  display: flex;
-  gap: 5px;
-  flex-wrap: wrap;
-}
-
-.chapter .spell-tag {
-  background: rgba(0,0,0,0.28);
-  color: #fff;
-  font-family: var(--font-ui);
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  padding: 2px 8px;
-  border-radius: 3px;
-}
-
-.chapter .spell-meta {
-  background: var(--accent-soft);
-  padding: 10px 18px;
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  border-bottom: 1px solid var(--border);
-}
-
-.chapter .spell-meta-row {
-  display: flex;
-  gap: 10px;
-  font-size: 0.92rem;
-  line-height: 1.55;
-}
-
-.chapter .spell-meta-label {
-  font-family: var(--font-ui);
-  font-weight: 700;
-  color: var(--ink-soft);
-  min-width: 110px;
-  flex-shrink: 0;
-  font-size: 0.82rem;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  padding-top: 2px;
-}
-
-.chapter .spell-meta-value {
-  color: var(--ink);
-}
-
-.chapter .spell-body {
-  padding: 14px 18px;
-  font-size: 0.97rem;
-  line-height: 1.65;
-  color: var(--ink);
-}
-
-.chapter .spell-body p {
-  margin: 0 0 10px;
-}
-
-.chapter .spell-body p:last-child {
-  margin-bottom: 0;
-}
-
-.chapter .spell-footer {
-  padding: 8px 18px;
-  font-size: 0.9rem;
-  line-height: 1.55;
-  border-top: 1px solid var(--border);
-  color: var(--ink);
-}
-
-.chapter .spell-footer-label {
-  font-family: var(--font-ui);
-  font-weight: 700;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin-right: 6px;
-}
-
-.chapter .spell-footer.overcast .spell-footer-label { color: #e8b93a; }
-.chapter .spell-footer.upcast   .spell-footer-label { color: #7ec8e3; }
-.chapter .spell-footer.drawback .spell-footer-label { color: #e07070; }
-
-.chapter .spell-footer.overcast .spell-footer-label { color: #e8b93a; }
-.chapter .spell-footer.upcast   .spell-footer-label { color: #7ec8e3; }
-.chapter .spell-footer.drawback .spell-footer-label { color: #e07070; }
-
-/* Kramdown p-tag fix for spell cards */
-.chapter .spell-meta-row p,
-.chapter .spell-header p,
-.chapter .spell-tags p,
-.chapter .spell-body p,
-.chapter .spell-footer p,
-.chapter .spell-tag-group p {
-  margin: 0;
-  display: contents;
-}
-
-.chapter .spell-meta-row {
-  display: flex;
-  gap: 10px;
-  font-size: 0.92rem;
-  line-height: 1.55;
-  width: 100%;
-}
-
-.chapter .spell-meta {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-}
-
-.chapter .spell-tags {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  flex-wrap: wrap;
-}
-
-.chapter .spell-tag-group {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 5px;
-  flex-wrap: wrap;
-}
-
-/* Print */
-@media print {
-  .chapter .spell-header { background: #333 !important; }
-  .chapter .spell-meta   { background: #f0f0f0 !important; }
-  .chapter .spell-meta-label { color: #555 !important; }
-  .chapter .spell-meta-value,
-  .chapter .spell-body,
-  .chapter .spell-footer { color: #1a1a1a !important; }
-}
 
 /* ---------- Print styles ---------- */
 
