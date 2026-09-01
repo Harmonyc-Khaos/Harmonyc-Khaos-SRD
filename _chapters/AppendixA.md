@@ -1,7 +1,7 @@
 ---
 title: "Appendix A: Conditions"
 order: 11
-slug: chapter-11'
+slug: chapter-11
 ---
 
 # Appendix A: Conditions
