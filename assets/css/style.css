@@ -516,6 +516,50 @@ body {
 .chapter .spell-footer.upcast   .spell-footer-label { color: #7ec8e3; }
 .chapter .spell-footer.drawback .spell-footer-label { color: #e07070; }
 
+.chapter .spell-footer.overcast .spell-footer-label { color: #e8b93a; }
+.chapter .spell-footer.upcast   .spell-footer-label { color: #7ec8e3; }
+.chapter .spell-footer.drawback .spell-footer-label { color: #e07070; }
+
+/* Kramdown p-tag fix for spell cards */
+.chapter .spell-meta-row p,
+.chapter .spell-header p,
+.chapter .spell-tags p,
+.chapter .spell-body p,
+.chapter .spell-footer p,
+.chapter .spell-tag-group p {
+  margin: 0;
+  display: contents;
+}
+
+.chapter .spell-meta-row {
+  display: flex;
+  gap: 10px;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  width: 100%;
+}
+
+.chapter .spell-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.chapter .spell-tags {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.chapter .spell-tag-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
 /* Print */
 @media print {
   .chapter .spell-header { background: #333 !important; }
