@@ -27,8 +27,11 @@ Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that att
 **Cantrip | Transmutation/Emission | Affinity: Fire | Sources: Arcane, Inherit**
 
 Cast Time: ⬢
+
 Range: 60 ft.
+
 Components: V, S
+
 Duration: Instant
 
 
@@ -40,8 +43,11 @@ You hurl a flame at a creature of your choice within range. Make a ranged spell 
 **3rd Level | Conjuration | Affinity: Arcane | Sources: Arcane, Expression, Vow**
 
 Cast Time: ⬢
+
 Range: Self
+
 Components: V, S
+
 Duration: 1 minute
 
 You recall the shape of a weapon you've once held. You can choose a weapon of common or uncommon quality that you've seen in person and must be able to clearly recall its design and know its intricacies such as magical effects (if any). For the duration, you may recreate that weapon to wield as you wish. If the replica is lost or destroyed during the duration of the spell, you may repay the Mana Cost for the spell as well as a ⬡ to replicate it again. You can replicate a number of weapons at once up to a maximum of your Intelligence modifier (min 1).
