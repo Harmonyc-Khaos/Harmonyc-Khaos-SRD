@@ -102,14 +102,14 @@ If you choose this heritage your **Affinity** becomes **Arcane**.
 **Arcane Foresight**{: .feature}
 The ability gifted to House Kosemiel by Him. It allows them to unlock the power to enhance their perception of time and space in a surge of power, granting them the ability to analyze the situation, draw from their well of knowledge and calculate how they can exploit their current predictament in order to guarantee themselves an advantage that may prove critical to their victory, be it in battle or otherwise.
 
-At the start of your turn, you may expend 1 Mana to gain a ⬡ token. until the end of the current round. If you are capable of using 3rd-tier arts or cast 3rd-tier or higher spells, you can instead expend 3 Mana to gain a ⬢ token.
+At the start of your turn, you may expend 1 Mana to gain a ⬡ token. until the end of the current round. If you are capable of using 3rd-tier arts or can cast 3rd-tier or higher spells, you can instead expend 3 Mana to gain a ⬢ token.
 
 You must complete a rest before you use this feature again.
 
 </div>
 
 ### House Neviel (The Saintess)
-The Neviel family is well-known for producing 
+The Neviel family is well-known for producing individuals who are virtuous by nature.
 
 Blonde and blue/green eyes. Some branch members are known to be dark skinned.
 

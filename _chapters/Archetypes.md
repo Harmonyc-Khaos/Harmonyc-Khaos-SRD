@@ -5,3 +5,6 @@ slug: chapter-3
 ---
 
 # Chapter 3: Archetypes
+
+> "(WIP)"
+
