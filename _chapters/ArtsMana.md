@@ -88,7 +88,7 @@ Spell description goes here.
 **Cast Time**{: .spell-meta-label} ⬢
 {: .spell-meta}
 
-**Range**{: .spell-meta-label} 60 ft.
+**Range**{: .spell-meta-label} 9 m.
 {: .spell-meta}
 
 **Components**{: .spell-meta-label} **V**{: .notation title="Verbal"} **S**{: .notation title="Somatic"}
@@ -97,7 +97,7 @@ Spell description goes here.
 **Duration**{: .spell-meta-label} Instant
 {: .spell-meta .spell-meta-last}
 
-You hurl a flame at a creature of your choice within range. Make a ranged spell attack — on a hit the target creature takes 1d8 fire damage.
+You hurl a flame at a creature of your choice within range. Make a ranged spell attack, on a hit the target creature takes 1d8 fire damage.
 {: .spell-body}
 
 **Overcast**{: .spell-overcast-label} By expending an additional ⬡, you can set the target ablaze.
