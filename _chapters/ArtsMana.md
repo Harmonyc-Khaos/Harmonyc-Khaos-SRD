@@ -27,7 +27,7 @@ Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that att
 
 <div class="spell-card" markdown="1">
 
-**SPELL NAME**{: .spell-name} **X Level**{: .spell-level}
+**Spell Name**{: .spell-name} **Nth Tier**{: .spell-tier}
 
 **School**{: .spell-tag-label} School(s) of Magic
 {: .spell-tags}
@@ -38,10 +38,10 @@ Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that att
 **Sources**{: .spell-tag-label} Source · Source
 {: .spell-tags}
 
-**Requirements**{: .spell-tag-label} X **Attribute**{: .attr-xxx} · Other
+**Requirements**{: .spell-tag-label} X **Attribute**{: .attr-xxx} · Other(s)
 {: .spell-tags .spell-tags-last}
 
-**Cast**{: .spell-meta-label} ⬡/⬢/▶
+**Cast Time**{: .spell-meta-label} ⬡/⬢/▶
 {: .spell-meta}
 
 **Range**{: .spell-meta-label} Self / Touch / X m
@@ -120,7 +120,7 @@ You hurl a flame at a creature of your choice within range. Make a ranged spell 
 **Sources**{: .spell-tag-label} Arcane · Expression · Vow
 {: .spell-tags .spell-tags-last}
 
-**Requirements**{: .spell-tag-label} 9 **Intelligence**{: .attr-int} · 9 **Spirit***{: .attr-int} · 9 **Willpower**{: .attr-int}
+**Requirements**{: .spell-tag-label} 9 **Intelligence**{: .attr-int} · 9 **Spirit**{: .attr-spi} · 9 **Willpower**{: .attr-wil}
 {: .spell-tags .spell-tags-last}
 
 **Cast Time**{: .spell-meta-label} ⬢
