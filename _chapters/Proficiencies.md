@@ -105,7 +105,7 @@ WIP
 
 ### Cengra
 
-(WIP) Tongue of the homonis.
+(WIP) Tongue of the Homonis.
 
 ### Aet
 

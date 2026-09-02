@@ -88,7 +88,7 @@ Spell description goes here.
 **Cast Time**{: .spell-meta-label} ⬢
 {: .spell-meta}
 
-**Range**{: .spell-meta-label} 9 m.
+**Range**{: .spell-meta-label} 9 m
 {: .spell-meta}
 
 **Components**{: .spell-meta-label} **V**{: .notation title="Verbal"} **S**{: .notation title="Somatic"}
