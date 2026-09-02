@@ -58,7 +58,7 @@ You hurl a flame at a creature of your choice within range. Make a ranged spell 
 
 <div class="spell-card" markdown="1">
 
-**Project Weapon**{: .spell-name} **3rd Level**{: .spell-tier}
+**Project Weapon**{: .spell-name} **3rd Tier**{: .spell-tier}
 
 **School**{: .spell-tag-label} Conjuration
 {: .spell-tags}
