@@ -198,6 +198,10 @@ body {
   overflow: hidden;
   margin: 24px 0;
   padding: 0;
+  position: relative;
+  background-color: #2a1f18;
+  background-image: url("https://www.transparenttextures.com/patterns/paper-fibers.png");
+  background-repeat: repeat;
 }
 
 .chapter .spell-card > p:first-child {
@@ -217,7 +221,7 @@ body {
   margin-right: 10px;
 }
 
-.chapter .spell-level {
+.chapter .spell-tier {
   font-family: var(--font-ui);
   font-size: 0.8rem;
   font-weight: 700;
@@ -232,9 +236,14 @@ body {
 .chapter .spell-tags {
   background: var(--accent-soft);
   margin: 0;
-  padding: 8px 18px;
-  border-bottom: 1px solid var(--border);
+  padding: 4px 18px;
   font-size: 0.88rem;
+  border-bottom: none;
+}
+
+.chapter .spell-tags.spell-tags-last {
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
 }
 
 .chapter .spell-tag-label {
@@ -248,14 +257,21 @@ body {
   padding: 0;
   border-radius: 0;
   margin-right: 6px;
+  display: inline-block;
+  min-width: 70px;
 }
 
 .chapter .spell-meta {
   background: var(--accent-soft);
   margin: 0;
-  padding: 6px 18px 10px;
-  border-bottom: 1px solid var(--border);
+  padding: 4px 18px;
+  border-bottom: none;
   font-size: 0.9rem;
+}
+
+.chapter .spell-meta.spell-meta-last {
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
 }
 
 .chapter .spell-meta-label {
@@ -268,7 +284,9 @@ body {
   background: none;
   padding: 0;
   border-radius: 0;
-  margin-right: 4px;
+  margin-right: 8px;
+  display: inline-block;
+  min-width: 110px;
 }
 
 .chapter .spell-body {
@@ -282,7 +300,6 @@ body {
   margin: 0;
   padding: 8px 18px;
   font-size: 0.9rem;
-  border-top: none;
 }
 
 .chapter .spell-overcast-label {
@@ -291,7 +308,7 @@ body {
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: #e8b93a;
+  color: #ee7801;
   background: none;
   padding: 0;
   border-radius: 0;
@@ -310,7 +327,7 @@ body {
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: #7ec8e3;
+  color: #0029bc;
   background: none;
   padding: 0;
   border-radius: 0;
@@ -329,7 +346,7 @@ body {
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: #e07070;
+  color: #d60000;
   background: none;
   padding: 0;
   border-radius: 0;

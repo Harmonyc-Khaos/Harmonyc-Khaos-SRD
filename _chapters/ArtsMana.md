@@ -25,15 +25,28 @@ Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that att
 
 <div class="spell-card" markdown="1">
 
-**Fire Bolt**{: .spell-name} **Cantrip**{: .spell-level}
+**Fire Bolt**{: .spell-name} **Cantrip**{: .spell-tier}
 
 **School**{: .spell-tag-label} Transmutation · Emission
-**Affinity**{: .spell-tag-label} Fire
-**Sources**{: .spell-tag-label} Arcane · Inherit
 {: .spell-tags}
 
-**Cast**{: .spell-meta-label} ⬢ · **Range**{: .spell-meta-label} 60 ft. · **Components**{: .spell-meta-label} V S · **Duration**{: .spell-meta-label} Instant
+**Affinity**{: .spell-tag-label} Fire
+{: .spell-tags}
+
+**Sources**{: .spell-tag-label} Arcane · Inherit
+{: .spell-tags .spell-tags-last}
+
+**Cast Time**{: .spell-meta-label} ⬢
 {: .spell-meta}
+
+**Range**{: .spell-meta-label} 60 ft.
+{: .spell-meta}
+
+**Components**{: .spell-meta-label} **V**{: .notation title="Verbal"} **S**{: .notation title="Somatic"}
+{: .spell-meta}
+
+**Duration**{: .spell-meta-label} Instant
+{: .spell-meta .spell-meta-last}
 
 You hurl a flame at a creature of your choice within range. Make a ranged spell attack — on a hit the target creature takes 1d8 fire damage.
 {: .spell-body}
@@ -45,15 +58,28 @@ You hurl a flame at a creature of your choice within range. Make a ranged spell 
 
 <div class="spell-card" markdown="1">
 
-**Project Weapon**{: .spell-name} **3rd Level**{: .spell-level}
+**Project Weapon**{: .spell-name} **3rd Level**{: .spell-tier}
 
 **School**{: .spell-tag-label} Conjuration
-**Affinity**{: .spell-tag-label} Arcane
-**Sources**{: .spell-tag-label} Arcane · Expression · Vow
 {: .spell-tags}
 
-**Cast**{: .spell-meta-label} ⬢ · **Range**{: .spell-meta-label} Self · **Components**{: .spell-meta-label} V S · **Duration**{: .spell-meta-label} 1 minute
+**Affinity**{: .spell-tag-label} Arcane
+{: .spell-tags}
+
+**Sources**{: .spell-tag-label} Arcane · Expression · Vow
+{: .spell-tags .spell-tags-last}
+
+**Cast Time**{: .spell-meta-label} ⬢
 {: .spell-meta}
+
+**Range**{: .spell-meta-label} Self
+{: .spell-meta}
+
+**Components**{: .spell-meta-label} **V**{: .notation title="Verbal"} **S**{: .notation title="Somatic"}
+{: .spell-meta}
+
+**Duration**{: .spell-meta-label} 1 minute
+{: .spell-meta .spell-meta-last}
 
 You recall the shape of a weapon you've once held. You can choose a weapon of common or uncommon quality that you've seen in person and must be able to clearly recall its design and know its intricacies such as magical effects (if any). For the duration, you may recreate that weapon to wield as you wish. If the replica is lost or destroyed during the duration of the spell, you may repay the Mana Cost as well as a ⬡ to replicate it again. You can replicate a number of weapons at once up to your Intelligence modifier (min 1).
 {: .spell-body}
