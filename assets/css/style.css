@@ -455,9 +455,9 @@ body {
 /* ---------- Item quality colors ---------- */
 
 .chapter .quality-common     { font-weight: 700; background: linear-gradient(to bottom, #535353, #ffffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
-.chapter .quality-uncommon   { font-weight: 700; background: linear-gradient(to bottom, #00c420, #8cf09d); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
-.chapter .quality-rare       { font-weight: 700; background: linear-gradient(to bottom, #0070ff, #8abdff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
-.chapter .quality-epic       { font-weight: 700; background: linear-gradient(to bottom, #a335ee, #daa6fd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
+.chapter .quality-uncommon   { font-weight: 700; background: linear-gradient(to bottom, #00c420, #dbffe1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
+.chapter .quality-rare       { font-weight: 700; background: linear-gradient(to bottom, #0070ff, #cfe4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
+.chapter .quality-epic       { font-weight: 700; background: linear-gradient(to bottom, #a335ee, #f0d9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
 .chapter .quality-legendary  { font-weight: 700; background: linear-gradient(to bottom, #ff8000, #ffff00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
 
 .chapter table {
