@@ -23,6 +23,52 @@ Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that att
 
 ## Spells
 
+### Spell Template
+
+<div class="spell-card" markdown="1">
+
+**SPELL NAME**{: .spell-name} **X Level**{: .spell-level}
+
+**School**{: .spell-tag-label} School(s) of Magic
+{: .spell-tags}
+
+**Affinity**{: .spell-tag-label} Affinity
+{: .spell-tags}
+
+**Sources**{: .spell-tag-label} Source · Source
+{: .spell-tags}
+
+**Requirements**{: .spell-tag-label} X **Attribute**{: .attr-xxx} · Other
+{: .spell-tags .spell-tags-last}
+
+**Cast**{: .spell-meta-label} ⬡/⬢/▶
+{: .spell-meta}
+
+**Range**{: .spell-meta-label} Self / Touch / X m
+{: .spell-meta}
+
+**Components**{: .spell-meta-label} **V**{: .notation title="Verbal"} **S**{: .notation title="Somatic"} **M**{: .notation title="Material"} **C**{: .notation title="Conditional"} **L**{: .notation title="Life"}
+{: .spell-meta}
+
+**Duration**{: .spell-meta-label} Instant / **T**{: .notation title="Turn"} / **R**{: .notation title="Round"} / X min
+{: .spell-meta .spell-meta-last}
+
+Spell description goes here.
+{: .spell-body}
+
+**Overcast**{: .spell-overcast-label} Overcast effect goes here.
+{: .spell-overcast}
+
+**Upcast**{: .spell-upcast-label} Upcast effect goes here.
+{: .spell-upcast}
+
+**Drawback**{: .spell-drawback-label} Drawback goes here.
+{: .spell-drawback}
+
+</div>
+
+### Fire Bolt
+
 <div class="spell-card" markdown="1">
 
 **Fire Bolt**{: .spell-name} **Cantrip**{: .spell-tier}
@@ -59,6 +105,8 @@ You hurl a flame at a creature of your choice within range. Make a ranged spell 
 
 </div>
 
+### Project Weapon
+
 <div class="spell-card" markdown="1">
 
 **Project Weapon**{: .spell-name} **3rd Tier**{: .spell-tier}
@@ -70,6 +118,9 @@ You hurl a flame at a creature of your choice within range. Make a ranged spell 
 {: .spell-tags}
 
 **Sources**{: .spell-tag-label} Arcane · Expression · Vow
+{: .spell-tags .spell-tags-last}
+
+**Requirements**{: .spell-tag-label} 9 **Intelligence**{: .attr-int} · 9 **Spirit***{: .attr-int} · 9 **Willpower**{: .attr-int}
 {: .spell-tags .spell-tags-last}
 
 **Cast Time**{: .spell-meta-label} ⬢
