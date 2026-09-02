@@ -50,3 +50,9 @@ You cannot use any effect that utilizes Mana without spending a ⬢ token first 
 (WIP)
 
 You must expend an additional ⬢ token to perform Emission-based effects. If you do so, your movement is then reduced by half for that turn and the range of all Emission-based effects are increased by 4.5 m.
+
+To take this feature you must have at least **Novice** proficiency in Emission.
+
+### Hard Mode (Bane)
+
+Your character's starting Attribute values are all reduced by 1.

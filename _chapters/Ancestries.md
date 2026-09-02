@@ -31,7 +31,7 @@ The Homonis are ambitious and versatile people with limitless potential. They ar
 A Homonis character has an additional 4 **Health Points**. They are some of the most fragile beings in **The New World** and a well placed strike from a dagger is usually enough to end their lives. Like every other being in **Haros**, they have access to Mana which grants them 1 **Mana Point** which they cannot use without the knowledge on how to do so.
 
 ### Stats
-You gain 3 additional stat points and you may add them to any attribute of your choice.
+You gain 3 additional stat points and you may add them to any Attribute of your choice.
 
 Your base **movement speed** is 9 m/**R**{: .notation title="Round"}
 

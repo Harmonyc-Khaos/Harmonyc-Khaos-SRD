@@ -135,10 +135,10 @@ You hurl a flame at a creature of your choice within range. Make a ranged spell 
 **Duration**{: .spell-meta-label} 1 minute
 {: .spell-meta .spell-meta-last}
 
-You recall the shape of a weapon you've once held. You can choose a weapon of common or uncommon quality that you've seen in person and must be able to clearly recall its design and know its intricacies such as magical effects (if any). For the duration, you may recreate that weapon to wield as you wish. If the replica is lost or destroyed during the duration of the spell, you may repay the Mana Cost as well as a ⬡ to replicate it again. You can replicate a number of weapons at once up to your **Intelligence**{: .attr-int} modifier (min 1).
+You recall the shape of a weapon you've once held. You can choose a weapon of **Common**{: .quality-common} or **Uncommon**{: .quality-uncommon} quality that you've seen in person and must be able to clearly recall its design and know its intricacies such as magical effects (if any). For the duration, you may recreate that weapon to wield as you wish. If the replica is lost or destroyed during the duration of the spell, you may repay the Mana Cost as well as a ⬡ to replicate it again. You can replicate a number of weapons at once up to your **Intelligence**{: .attr-int} modifier (min 1).
 {: .spell-body}
 
-**Upcast**{: .spell-upcast-label} At 5th level, recreate weapons up to rare quality. At 7th level, up to epic quality. At 9th level, up to legendary quality. At 10th level, the weapon becomes a permanent item if not dispelled or destroyed before the spell ends.
+**Upcast**{: .spell-upcast-label} As a 5th-tier spell, you can recreate weapons up to **Rare**{: .quality-rare} quality. As 7th-tier, up to **Epic**{: .quality-epic} quality. As 9th-tier level, up to **Legendary**{: .quality-legendary} quality. At 10th-tier, the weapon becomes a permanent item if not dispelled or destroyed before the spell ends.
 {: .spell-upcast}
 
 </div>
