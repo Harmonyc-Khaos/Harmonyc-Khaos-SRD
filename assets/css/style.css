@@ -190,6 +190,152 @@ body {
   margin-top: 0;
 }
 
+/* ---------- Spell Cards ---------- */
+
+.chapter .spell-card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 24px 0;
+  padding: 0;
+}
+
+.chapter .spell-card > p:first-child {
+  background: var(--accent);
+  margin: 0;
+  padding: 10px 18px;
+}
+
+.chapter .spell-name {
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #fff;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  margin-right: 10px;
+}
+
+.chapter .spell-level {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: rgba(255,255,255,0.75);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+}
+
+.chapter .spell-tags {
+  background: var(--accent-soft);
+  margin: 0;
+  padding: 8px 18px;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.88rem;
+}
+
+.chapter .spell-tag-label {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  margin-right: 6px;
+}
+
+.chapter .spell-meta {
+  background: var(--accent-soft);
+  margin: 0;
+  padding: 6px 18px 10px;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.9rem;
+}
+
+.chapter .spell-meta-label {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  margin-right: 4px;
+}
+
+.chapter .spell-body {
+  margin: 0;
+  padding: 14px 18px;
+  font-size: 0.97rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.chapter .spell-overcast {
+  margin: 0;
+  padding: 8px 18px;
+  font-size: 0.9rem;
+  border-top: none;
+}
+
+.chapter .spell-overcast-label {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #e8b93a;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  margin-right: 6px;
+}
+
+.chapter .spell-upcast {
+  margin: 0;
+  padding: 8px 18px;
+  font-size: 0.9rem;
+}
+
+.chapter .spell-upcast-label {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #7ec8e3;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  margin-right: 6px;
+}
+
+.chapter .spell-drawback {
+  margin: 0;
+  padding: 8px 18px;
+  font-size: 0.9rem;
+}
+
+.chapter .spell-drawback-label {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #e07070;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  margin-right: 6px;
+}
+
 /* ---------- Typography ---------- */
 
 .chapter h1, .chapter h2, .chapter h3, .chapter h4 {
