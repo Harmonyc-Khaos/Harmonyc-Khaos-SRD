@@ -82,7 +82,7 @@ Spell description goes here.
 **Sources**{: .spell-tag-label} Arcane · Inherit
 {: .spell-tags .spell-tags-last}
 
-**Requirements**{: .spell-tag-label} 5 **Intelligence**{: .attr-int} · Prima
+**Requirements**{: .spell-tag-label} 5 **Intelligence**{: .attr-int} · Prima (**Novice**)
 {: .spell-tags .spell-tags-last}
 
 **Cast Time**{: .spell-meta-label} ⬢
