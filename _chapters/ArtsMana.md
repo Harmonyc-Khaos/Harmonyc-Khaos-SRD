@@ -36,6 +36,9 @@ Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that att
 **Sources**{: .spell-tag-label} Arcane · Inherit
 {: .spell-tags .spell-tags-last}
 
+**Requirements**{: .spell-tag-label} 5 **Intelligence**{: .attr-int} · Prima
+{: .spell-tags .spell-tags-last}
+
 **Cast Time**{: .spell-meta-label} ⬢
 {: .spell-meta}
 

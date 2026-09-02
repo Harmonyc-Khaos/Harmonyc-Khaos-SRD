@@ -136,7 +136,7 @@ If you choose this heritage your **Affinity** becomes **Ice**.
 <div class="ability-card" markdown="1">
 
 **Gossip Keeper**{: .feature}
-When you succeed a **Proficiency Test** that uses **Charisma** while engaging with a dweller, you gain favor with the respective dweller that you were interacting with, granting you a +1 bonus on all future **Charisma-based** interactions with that individual. This effect stacks up to a maximum equal to your **Charisma modifier** for each different individual that it is active on. This effect is nullified if you cause that dweller to become hostile towards you. This effect counts as being under a '**Charmed**' **ailment** but it cannot be detected by magic.
+When you succeed a **Proficiency Test** that uses **Charisma**{: .attr-cha} while engaging with a dweller, you gain favor with the respective dweller that you were interacting with, granting you a +1 bonus on all future Charisma-based interactions with that individual. This effect stacks up to a maximum equal to your **Charisma**{: .attr-cha} modifier for each different individual that it is active on. This effect is nullified if you cause that dweller to become hostile towards you. This effect counts as being under a '**Charmed**' **ailment** but it cannot be detected by magic.
 
 </div>
 
