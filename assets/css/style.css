@@ -190,6 +190,18 @@ body {
   margin-top: 0;
 }
 
+/* ---------- Images ---------- */
+
+.chapter .img-center {
+  text-align: center;
+  margin: 24px 0;
+}
+
+.chapter .img-center img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* ---------- Spell Cards ---------- */
 
 .chapter .spell-card {
@@ -460,7 +472,6 @@ body {
 .chapter .quality-epic       { font-weight: 700; background: linear-gradient(to bottom, #a335ee, #f0d9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
 .chapter .quality-legendary  { font-weight: 700; background: linear-gradient(to bottom, #ff8000, #ffff00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
 
-/* ---------- Karma ---------- */
 /* ---------- Karma ---------- */
 .chapter .positive-karma { color: #01b9fd; font-weight: 700; text-shadow: 0 0 6px #fff, 0 0 10px #fff, 0 0 4px #fff; }
 .chapter .neutral-karma  { color: #805c7f; font-weight: 700; text-shadow: 0 0 6px #fff, 0 0 10px #fff, 0 0 4px #fff; }
