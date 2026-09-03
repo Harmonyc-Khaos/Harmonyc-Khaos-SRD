@@ -15,7 +15,7 @@ Deities' nourishment on the power of belief granted to them by their followers m
 The Karma System is part of your character and it tracks the aforementioned behaviors on a numerical scale which may affect how certain magical effects behave within other in-world consequences.
 
 <div class="img-center" markdown="0">
-<img src="{{ '/assets/images/karma.png' | relative_url }}" alt="Karma">
+<img src="{{ '/assets/images/karma.png' | relative_url }}" alt="Karma" >
 </div>
 
 A dweller's Karma whose value exceeds positive 150 becomes **Virtue**{: .positive-karma} and if the value exceeds negative 150, it becomes **Sin**{: .negative-karma}. If your Karma value sits between both aforementioned boundaries, then your Karma is **Neutral**{: .neutral-karma}.
@@ -26,9 +26,9 @@ Below is a chart with a number of example behaviors and what their associated va
 
 | Behavior | Karma Value |
 |---|---|
-| Donating to the destitute | +5 |
-| Saving an innocent life | +15 |
-| Lying for personal gain | -10 |
-| Theft | -20 |
-| Robbery | -30 |
-| Murder of an innocent | -50 |
+| Donating to the destitute | +5{: .positive-karma} |
+| Saving an innocent life | +15{: .positive-karma} |
+| Lying for personal gain | -10{: .negative-karma} |
+| Theft | -20{: .negative-karma} |
+| Robbery | -30{: .negative-karma} |
+| Murder of an innocent | -50{: .negative-karma} |
