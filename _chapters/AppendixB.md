@@ -28,6 +28,7 @@ Below is a chart with a number of example behaviors and what their associated va
 |---|---|
 | Donating to the destitute | **+5**{: .positive-karma} |
 | Saving an innocent life | **+15**{: .positive-karma} |
+| Kill in self-defense | **0**{: .neutral-karma} |
 | Lying for personal gain | **-10**{: .negative-karma} |
 | Theft | **-20**{: .negative-karma} |
 | Robbery | **-30**{: .negative-karma} |
