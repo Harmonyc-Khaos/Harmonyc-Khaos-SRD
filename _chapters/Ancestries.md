@@ -83,7 +83,7 @@ You gain 5 **Novice** Skill Proficiencies of your choice. Alternatively, you can
 ### Languages
 The Homonis' primary language is **Cengra**, a language taught to them by **Him** which your character has Expert proficiency in if their **Intelligence**{: .attr-int} is 5 or higher; Novice if 3 or higher or Untrained if below 2 or lower, which still allows you to speak and understand the spoken language but not its written form.
 
- Over the generations, Cengra slowly replaced **Alflos**, the language of the Immanis which itself has its roots in **Prima**, as most languages do, however some people, specially **House Chozekiel**, chose to safeguard the knowledge as that language is the gateway to many spells created by the Immanis.
+Over the generations, Cengra slowly replaced **Alflos**, the language of the Immanis which itself has its roots in **Prima**, as most languages do, however some people, specially **House Chozekiel**, chose to safeguard the knowledge as that language is the gateway to many spells created by the Immanis.
 
 As a character from the Homonis people, if during character creation your **Intelligence**{: .attr-int} is 10 or higher, you may add Alflos to your known languages at Novice proficiency.
 
@@ -109,39 +109,54 @@ You must complete a rest before you use this feature again.
 </div>
 
 ### House Neviel (The Saintess)
-The Neviel family is well-known for producing individuals who are virtuous by nature.
+The Neviel family is known as a family that puts virtue above all. Since young, their children are raised communally by the head of the house, always a Matriarch, being taught to be as selfless as possible and disciplined to be the embodiment of virtue itself. Due to their signature ability to see the color of the soul, it is customary for them to wear a blindfold, specially during times of rest. They are educated by their family into believing firmly that their ability does not grant them the power to judge other dwellers, even if the other Great Houses often of Vinctora often use them for that very same purpose.
 
-Blonde and blue/green eyes. Some branch members are known to be dark skinned.
+People of this house tend to share their appearance with their ancestor, **The First Saint**, with extremely feminine complexions, even the male heirs, blonde hair and light colored eyes, mostly blue and green tones. Some branch members are known to have darker shades of skin tone.
 
 If you choose this heritage your **Affinity** becomes **Water**.
 
 <div class="ability-card" markdown="1">
 
 **Saint Sense**{: .feature}
-An ability gifted to House Neviel by Him. As an action, 
+An ability gifted to House Neviel by Him. While their eyes are closed, they can see the shape of a dweller's Mana around them, with the color of their Mana taking on the properties of their **Karma**, being seen as red if their karma is **sinful**{: .negative-karma}, a purplish gray if their karma is **neutral**{: .neutral-karma} and blue if their karma is **virtuous**{: .positive-karma}.
 
+Saint Sense cannot detect dwellers who are actively hiding their Mana through an effect or are unloved by the All-Mother.
 </div>
 
 <div class="ability-card" markdown="1">
 
 **Asperges**{: .feature}
-An ability gifted to House Neviel by Him. By maintaining physical contact with a source of water, you may transmute that source of water into **blessed water**. You can transmute up to X liters every hour at the rate of.
+An ability gifted to House Neviel by Him. By maintaining physical contact with a source of water, you may transmute that source of water into **blessed water**. To do so, you must perform a ritual that takes an amount of time proportional to how much water you wish to transmute, with the minimum being 8L every second (you may convert this amount or less within a water container that you can touch as a ⬡ action during combat) and a maximum of 28,8 thousand liters of water after 1 hour, about enough to fill a small pool.
+
+Depending on your proficiency in Emission, you may be able to convert larger amounts:
+
+* If you have Novice proficiency: You may convert up to 700 thousand liters over one entire day. You may also target rain to become **blessed water** within 4.5 meters of you.
+
+* If you have Expert proficiency: You may convert up to 4,8 million liters over one week. You may also target rain to become **blessed water** within 9 meters of you.
+
+* If you have Master proficiency: You may convert up to 12 million liters over two and a half weeks. You may also target rain to become **blessed water** within 13.5 meters of you.
+
+* If you have Legendary proficiency: You may convert up to 24,5 million liters (about enough to fill a small lake), over 40 days (about an entire season). You may also target rain to become **blessed water** within 18 meters of you.
 
 </div>
 
 ### House Malkahiel (The Mother)
-Cunning, social and elegant.
+Historically, the family that descends from the **First Empress** of the Homonis empire and the people that originate from the same settlement that she did. Their blood has become intertwined with house Melechiel and the only difference between the two is where their homeland within Vinctora lies and the Affinity that they are born with. Individuals produced by this house are commonly cunning, elegant and socially adept.
+
 If you choose this heritage your **Affinity** becomes **Ice**.
 
 <div class="ability-card" markdown="1">
 
 **Gossip Keeper**{: .feature}
-When you succeed a **Proficiency Test** that uses **Charisma**{: .attr-cha} while engaging with a dweller, you gain favor with the respective dweller that you were interacting with, granting you a +1 bonus on all future Charisma-based interactions with that individual. This effect stacks up to a maximum equal to your **Charisma**{: .attr-cha} modifier for each different individual that it is active on. This effect is nullified if you cause that dweller to become hostile towards you. This effect counts as being under a '**Charmed**' **ailment** but it cannot be detected by magic.
+When you succeed a **Proficiency Test** that uses **Charisma**{: .attr-cha} while engaging with a dweller in conversation, you gain favor with the respective dweller that you were interacting with, granting you a +1 bonus on all future Charisma-based interactions with that individual. This effect stacks up to a maximum equal to your **Charisma**{: .attr-cha} modifier for each different individual that it is active on. This effect is nullified if you cause that dweller to become hostile towards you. This effect counts as being under a '**Charmed**' condition but it cannot be detected by magic.
 
 </div>
 
 ### House Melechiel (The Father)
-Charismatic and Pragmatic.
+Historically, the family that descends from the **First Emperor** of the Homonis empire and the people that originate from the same settlement that he did. Their blood has become intertwined with house Malkahiel and the only difference between the two is where their homeland within Vinctora lies and the Affinity that they are born with.
+
+Individuals produced by this house are natural-born leaders, both charismatic and pragmatic.
+
 If you choose this heritage your **Affinity** becomes **Lightning**.
 
 <div class="ability-card" markdown="1">
@@ -154,21 +169,44 @@ You must complete a rest before you use this feature again.
 </div>
 
 ### House Gadoliel (The Advocate)
-Quiet and wise.
+Descendants of the Pontiff of **The Triumph**, they hold the highest positions within the Clergy and are in charge of spreading the teachings of Him to any and all that wish to join the empire. The Triumph accepts all, lowborn and highborn, Homonis or not. As such, it is not uncommon to see adopted members of the family from other ancestries, as the First Pontiff himself was a Semia, half Homonis and a Sylva.
+
+Individuals naturally born into this house have golden eyes with a sigil inscribed in them. Other non-Homonis dwellers adopted into this house have their eyes change into the same ones as their predecessors, marking them as having accepted Him into their hearts as the one true God.
+
 If you choose this heritage your **Affinity** becomes **Nature**.
 
 <div class="ability-card" markdown="1">
 
 **Inspiring Prayer**{: .feature}
-(WIP) <s>Guidance cantrip. </s>
-During **training**, if you are **tutoring** a proficiency skill to a dweller whose **tier of proficiency** for that skill is lower than yours, they can add your Wisdom modifier to their  rolls (min. 1).
+You learn the '**Guidance**' spell art.
+
+During **training**, if you are **tutoring** a Skill or Language Proficiency to a dweller whose **tier of proficiency** for that skill is lower than yours, they can add your Wisdom modifier to their training rolls (min. 1).
+
+</div>
+
+<div class="ability-card" markdown="1">
+
+**Absolution**{: .feature}
+You create a **Vow** between you and another willing dweller of your choice that is not part of the Homonis Ancestry or is part of the Shotiel Heritage known as the **Vow of Absolution**. That willing dweller's only Mana **Source** becomes **Divine** and they lose access to all **Arts**. If their Karma is **sinful**{: .negative-karma} and they are willing to change their ways, their Karma becomes **0**{: .neutral-karma}.
+
+Until their next level up, the target of the Vow is only allowed to use the same Arts that you know (optionally, you may choose a limited list of what they are allowed to cast). If they do level up, their first class becomes Devout and they must re-build their character as if starting from level 1 to their current level.
+
+The creation of the Vow is a ritual that takes an entire day and requires the following:
+* This ritual can only be performed by a natural-born member of the Gadoliel family.
+* The blood, sweat and tears from the creator of the Vow are required.
+* The target of the Vow must drink the mixture of the above mentioned with **blessed water**.
+* The target must be true to their devotion to Yoddeh Vattet, the one and only True God.
+
+Shall the target of the Vow break their Vow by either renouncing Him as their one and only God, having their Karma reduced to below **-150**{: .negative-karma} or attacking a member of one of the Great Houses of Vinctora, then Him shall deliver divine punishment upon the target of the Vow. A beam of pure energy strikes from the skies, passing through any terrain or construct and only targetting the one person who broke the vow, they take 10d10 holy damage, which, if it reduces the target to 0 hit points, kills them and then destroys their body and soul forever, making them unable to become one with the stars or ever be called back. If a dweller survives this, they lose all the powers granted to them by this feature.
 
 </div>
 
 ### House Ahaviel (The Linked)
-Obsessive and charming.
+Originally this Hero King's sit was occupied by a couple but in their ascension to Hero King, He granted their wish to become one forever. The resulting being had both masculine and feminine features, it was said that they were the most beautiful person in the empire at its inception.
 
-Warm colored eyes and hair, with the eyes sometimes shifting to colder colors (purples and blues).
+The Hero King of House Ahaviel did not have any descedants, yet the other people of their settlement continued the family line for them, having passed down the teachings and philosophy that one's single most important goal in life was to find their fated person, their one and only partner, and become one with them.
+
+Those born into the Ahaviel family have warm colored eyes, specially red and pink tones, though it is said that the saturation in them shifts with their mood. They tend to care much for their own appearance and when they find their partner they become solely focused on appealing to them to the point of an unhealthy obsession.
 
 If you choose this heritage your **Affinity** becomes **Life**.
 
@@ -176,23 +214,29 @@ If you choose this heritage your **Affinity** becomes **Life**.
 
 **Eternal Love**{: .feature}
 You create a **Vow** between you and another dweller of your choice known as the **Vow of Eternal Love**.
-You choose a target of your affection (consent has to be agreed upon between you and another player character if you choose them); until death of either dweller: damage taken, **conditions**, **permanent injuries** and the effects of **banes** are shared between the both of them and so are **magical effects**, regaining hit points from any sources and the effects of **boons**.
+You choose a target of your affection (consent has to be agreed upon between you and another player if you choose them); until death of either dweller: damage taken, **conditions**, **permanent injuries** and the effects of **banes** are shared between the both of them and so are **magical effects**, regaining hit points from any sources and the effects of **boons**.
 
-(WIP) <s>The difficulty of any effect that you have to roll for Charm (that isn't the target of your affection) is halved (rounded up).</s>
+Both you and the target of your Vow are immune to the **Charmed** condition cast upon either of you by an outside source.
 
 </div>
 
 ### House Merkaviel (The Gallant)
-Stubborn and loyal
+Charlotte Merkaviel is perhaps one of the most respected and feared names outside of Vinctora, an young upbeat girl who became the chariot for the Empire's unification of Vinctora. People from this house are known for their carefree attitude, stubborness and loyalty.
 
-Silver hair with bluish/purple eyes, sometimes **black sheep** are born with black hair instead and are shunned for it.
+Much like the first head of the family, descedants of the Merkaviel house possess silver hair and bluish/purple eyes, though sometimes **black sheep** are born with dark colored hair.
+
+Due to an incident relating to the fourth head of the family, who was the first in his lineage to have dark hair, and renounced Him before abandoning his family and fleeing to Oberona, a dark hair is considered a bad omen within the family and the members born with it are often shunned out of their ancestral homeland.
 
 If you choose this heritage your **Affinity** becomes **Air**.
 
 <div class="ability-card" markdown="1">
 
-**(WIP)**{: .feature}
+**Chevalerie**{: .feature}
+You gain **Novice** Proficiency in Riding and 1 Combat Proficiency for a weapon of your choice except Brawling.
 
+When you take the **Step** action during combat, your distance is doubled.
+
+When you score a critical strike you gain the effect of a 1st-tier Art of your choice that you know without expending Mana.
 </div>
 
 ### House Chozekiel (The Strong)
@@ -205,6 +249,9 @@ If you choose this heritage your **Affinity** becomes **Earth**.
 <div class="ability-card" markdown="1">
 
 **Goliath**{: .feature}
+As a member of the Chozekiel family, you are taught Alflos since a young age and gain Novice proficiency with it. If, during creation your **Intelligence**{: .attr-int} is 8 or higher, you may add Alflos to your known languages at Expert proficiency.
+
+You learn the '**Enlarge**' spell art and can cast it as **Silent** magic only on yourself. When you cast this spell this way, your maximum health points increase by an amount equal to your Magic modifier times your level. When you achieve 10th level, you can have this feature's effect permanently active on yourself. You don't lose concentration on it unless you are knocked out though it still counts as a spell for your **concentration stack**.
 
 </div>
 

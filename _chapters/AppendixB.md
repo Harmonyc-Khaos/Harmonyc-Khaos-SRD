@@ -50,3 +50,4 @@ Below is a chart with a number of example behaviors and what their associated va
 | Robbery | **-30**{: .negative-karma} |
 | Meaningless slaughter of a lowborn | **-40**{: .negative-karma} |
 | Murder of an innocent | **-50**{: .negative-karma} |
+| Genocide | **-300**{: .negative-karma} |
