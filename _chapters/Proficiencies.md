@@ -6,7 +6,13 @@ slug: chapter-4
 
 # Chapter 4: Proficiencies
 
-WIP
+(WIP)
+
+* Untrained (+0)
+* Novice (+2) 
+* Expert (+4)
+* Master (+6)
+* Legendary (+8)
 
 ## Combat Proficiency
 * Brawling

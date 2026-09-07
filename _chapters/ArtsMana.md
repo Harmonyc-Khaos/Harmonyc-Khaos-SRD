@@ -97,11 +97,55 @@ Spell description goes here.
 **Duration**{: .spell-meta-label} Instant
 {: .spell-meta .spell-meta-last}
 
-You hurl a flame at a creature of your choice within range. Make a ranged spell attack, on a hit the target creature takes 1d8 fire damage.
+You condense your mana in the palm of your hand and transmute it into flame missile, you then hurl it at a target within range. Make a ranged spell attack, on a hit the target dweller takes 1d8 fire damage.
 {: .spell-body}
 
 **Overcast**{: .spell-overcast-label} By expending an additional ⬡, you can set the target ablaze.
 {: .spell-overcast}
+
+</div>
+
+### Shield
+
+<div class="spell-card" markdown="1">
+
+**Shield**{: .spell-name} **1st Tier**{: .spell-tier}
+
+**School**{: .spell-tag-label} Enhancement
+{: .spell-tags}
+
+**Affinity**{: .spell-tag-label} Arcane
+{: .spell-tags}
+
+**Sources**{: .spell-tag-label} Arcane · Expression · Inherit
+{: .spell-tags .spell-tags-last}
+
+**Requirements**{: .spell-tag-label} 5 **Spirit**{: .attr-spi}
+{: .spell-tags .spell-tags-last}
+
+**Cast Time**{: .spell-meta-label} ▶⬢
+{: .spell-meta}
+
+**Range**{: .spell-meta-label} Self
+{: .spell-meta}
+
+**Components**{: .spell-meta-label} **V**{: .notation title="Verbal"} **S**{: .notation title="Somatic"}
+{: .spell-meta}
+
+**Duration**{: .spell-meta-label} **R**{: .notation title="Round"}
+{: .spell-meta .spell-meta-last}
+
+When an attack is declared against you or targets an area that includes you, you can react by activating this spell without paying its Mana Cost. While active, whenever you take damage, you can pay the Mana Cost to reduce that damage by an amount equal to your Magic modifier. The DR is reduced by half (rounded down) if the damage type of the attack is Slashing, Piercing or Bludgeoning.
+{: .spell-body}
+
+**Overcast**{: .spell-overcast-label} If you have Expert Proficiency in Emission, you can expend an additional ⬢ to grant the benefits of 'Shield' to all dwellers within 1.5 meters of you.
+{: .spell-overcast}
+
+**Upcast**{: .spell-upcast-label} If you cast this spell at a higher tier than 1st: The damage reduction is multiplied by the tier of the spell.
+{: .spell-upcast}
+
+**Drawback**{: .spell-drawback-label} You cannot use other reactions until the end of the duration of this spell.
+{: .spell-drawback}
 
 </div>
 

@@ -10,7 +10,7 @@ Karma is an universal law of cause and effect where your actions, words, and int
 
 In Haros, Karma was subconsciouly created by the All-Mother as a cosmic force that affects how each being's Mana flows and manifests. This cosmic force exists as a dichotomy between what mortals would describe as "Good" and "Evil", and one's behaviors would push a dweller towards either of those extremities.
 
-Deities' nourishment on the power of belief granted to them by their followers may be affected if a large number of creatures whose Karma is the opposite of the one that deity favors, being able to either purify or corrupt them.
+Deities' nourishment on the power of belief granted to them by their followers may be affected if a large number of dwellers whose Karma is the opposite of the one that deity favors, being able to either purify or corrupt them.
 
 The Karma System is part of your character and it tracks the aforementioned behaviors on a numerical scale which may affect how certain magical effects behave within other in-world consequences.
 
@@ -26,10 +26,27 @@ Below is a chart with a number of example behaviors and what their associated va
 
 | Behavior | Karma Value |
 |---|---|
-| Donating to the destitute | **+5**{: .positive-karma} |
+| Saving the world | **+300**{: .positive-karma} |
+| Saving a continent | **+200**{: .positive-karma} |
+| Saving a city | **+100**{: .positive-karma} |
+| Saving a settlement | **+50**{: .positive-karma} |
+| Sacrificing yourself for the greater good | **+50**{: .positive-karma} |
 | Saving an innocent life | **+15**{: .positive-karma} |
+| Helping someone in distress | **+10**{: .positive-karma} |
+| Disarming and/or arresting a criminal | **+10**{: .positive-karma} |
+| Stopping a fight | **+10**{: .positive-karma} |
+| Comforting someone | **+5**{: .positive-karma} |
+| Donating to the destitute | **+5**{: .positive-karma} |
 | Kill in self-defense | **0**{: .neutral-karma} |
-| Lying for personal gain | **-10**{: .negative-karma} |
-| Theft | **-20**{: .negative-karma} |
+| Telling a white lie | **0**{: .neutral-karma} |
+| Helping someone for monetary gain | **0**{: .neutral-karma} |
+| Lying for personal gain | **-5**{: .negative-karma} |
+| Bribing someone | **-5**{: .negative-karma} |
+| Forgery | **-5**{: .negative-karma} |
+| Breaking a promise | **-10**{: .negative-karma} |
+| Theft (Context may change the value) | **-20**{: .negative-karma} |
+| Murder of a criminal (non-self defense) | **-25**{: .negative-karma} |
+| Fraud | **-30**{: .negative-karma} |
 | Robbery | **-30**{: .negative-karma} |
+| Meaningless slaughter of a lowborn | **-40**{: .negative-karma} |
 | Murder of an innocent | **-50**{: .negative-karma} |

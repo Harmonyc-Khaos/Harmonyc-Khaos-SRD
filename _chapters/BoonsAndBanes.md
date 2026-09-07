@@ -32,6 +32,16 @@ Temperance - Gluttony
 
 Taking this feature counts as taking both 1 Boon and 1 Bane.
 
+### Free Style (Boon)
+
+You may choose any Affinity as your primary Affinity when creating your character.
+
+### Immanis Blood (Boon)
+
+Become one size larger (Maximum size is Large). On level up, add twice your Constitution modifier to your maximum HP increase.
+
+You gain **Novice** Proficiency with Alflos.
+
 ### Skewered Fate (Boon)
 
 All your D20 Rolls become 2d10 instead.
