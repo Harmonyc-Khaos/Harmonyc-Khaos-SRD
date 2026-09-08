@@ -14,7 +14,7 @@ slug: chapter-5
 
 <div class="art-card" markdown="1">
 
-**Art Name**{: .art-name} **Nth Tier**{: .art-tier} **⬢**{: .art-action}
+**Art Name**{: .art-name} **⬢**{: .art-action} **Nth Tier**{: .art-tier}
 
 **Traits**{: .art-tag-label} Trait · Trait
 {: .art-tags .art-tags-last}
