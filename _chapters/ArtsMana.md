@@ -44,11 +44,12 @@ Art description goes here.
 
 You stabilize the Mana within your body so that it wraps around your body, taking the shape of a thin shroud. Rather than leak out constantly, your Mana now is concentrated around your body, granting you a basic level of protection.
 
-While active, Vel grants you 1 **DR** against all physical damage types and 3 **DR** against all energy damage types. It stays active until you are knocked unconscious or you dismiss it as a ⏣ action.
-{: .art-body}
+While active, Vel grants you 1 **DR** against all physical damage types and 3 **DR** against all energy damage types. It stays active until you are knocked unconscious or you dismiss it as a ⏣ action.{: .art-body}
+
 </div>
 
 ### Auga
+
 <div class="art-card" markdown="1">
 
 **Auga**{: .art-name} **⬢⬢**{: .art-action} **Principle**{: .art-tier}
@@ -58,8 +59,7 @@ While active, Vel grants you 1 **DR** against all physical damage types and 3 **
 
 You must have Vel active to use Auga.
 
-You augment your Mana's output so that it flows out explosively. While active, the **DR** granted by Vel increases by an amount equal to your Magic modifier (min. 1). Additionally, you add your Magic modifier to all your effects that deal damage to a target other than yourself or an area that you target.
-{: .art-body}
+You augment your Mana's output so that it flows out explosively. While active, the **DR** granted by Vel increases by an amount equal to your Magic modifier (min. 1). Additionally, you add your Magic modifier to all your effects that deal damage to a target other than yourself or an area that you target.{: .art-body}
 
 **Drawback**{: .art-effect-label} At the end of each **R**{: .notation title="Round"}, expend 1 Mana or lose the effects of both Auga and Vel.
 {: .art-body .art-body-more}
@@ -67,8 +67,8 @@ You augment your Mana's output so that it flows out explosively. While active, t
 **Mastery**{: .art-effect-label}
 If you activate Auga 20 times, the cast time is reduced to ⬢.
 
-If you manage to maintain Auga active for 10 **T**{: .notation title="Turn"} in a row, the Drawback only activates every 1 minute instead of every round.
-{: .art-body .art-body-more}
+If you manage to maintain Auga active for 10 **T**{: .notation title="Turn"} in a row, the Drawback only activates every 1 minute instead of every round. {: .art-body .art-body-more}
+
 </div>
 
 ### Nihil
@@ -91,6 +91,7 @@ If you manage to maintain concentration with Nihil active 30 times after taking 
 
 If you manage to maintain concentration with Nihil active 60 times after taking damage, the cast time is reduced to ⏣.
 {: .art-body .art-body-more}
+
 </div>
 
 ### Pierce
@@ -109,8 +110,7 @@ The next attack you hit ignores the **damage reduction** provided by the target'
 
 With Expert proficiency, you also ignore immunity.
 
-With Master proficiency, you also ignore absorption and reflection.
-{: .art-body .art-body-more}
+With Master proficiency, you also ignore absorption and reflection.{: .art-body .art-body-more}
 
 </div>
 
@@ -123,8 +123,7 @@ With Master proficiency, you also ignore absorption and reflection.
 **Requirements**{: .art-tag-label} 7 **Strength**{: .attr-str}
 {: .art-tags .art-tags-last}
 
-Make an attack with a weapon that you are wielding. That attack's range increases by 1.5 meters and deals an additional amount of damage equal to your weapon's average damage. If you make a Called Shot with this attack, it has no penalties to your accuracy.
-{: .art-body}
+Make an attack with a weapon that you are wielding. That attack's range increases by 1.5 meters and deals an additional amount of damage equal to your weapon's average damage. If you make a Called Shot with this attack, it has no penalties to your accuracy.{: .art-body}
 
 </div>
 
