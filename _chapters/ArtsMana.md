@@ -73,7 +73,7 @@ If you activate Auga 20 times, the cast time is reduced to ⬢.
 {: .art-body .art-body-more}
 
 If you manage to maintain Auga active for 10 **T**{: .notation title="Turn"} in a row, the Drawback only activates every 1 minute instead of every round.
-{: .art-body .art-body-more}
+{: .art-body}
 
 </div>
 
@@ -96,10 +96,10 @@ You must maintain **concentration** to keep this effect active. Declaring an att
 {: .art-body .art-body-more}
 
 If you manage to maintain concentration with Nihil active 30 times after taking damage, the cast time is reduced to ⬡.
-{: .art-body .art-body-more}
+{: .art-body}
 
 If you manage to maintain concentration with Nihil active 60 times after taking damage, the cast time is reduced to ⏣.
-{: .art-body .art-body-more}
+{: .art-body}
 
 </div>
 
@@ -119,10 +119,10 @@ The next attack you hit ignores the **damage reduction** provided by the target'
 {: .art-body .art-body-more}
 
 With Expert proficiency, you also ignore immunity.
-{: .art-body .art-body-more}
+{: .art-body}
 
 With Master proficiency, you also ignore absorption and reflection.
-{: .art-body .art-body-more}
+{: .art-body}
 
 </div>
 
