@@ -10,6 +10,29 @@ slug: chapter-5
 
 ## Arts
 
+### Art Template
+
+<div class="art-card" markdown="1">
+
+**Art Name**{: .art-name} **Nth Tier**{: .art-tier} **⬢**{: .art-action}
+
+**Traits**{: .art-tag-label} Trait · Trait
+{: .art-tags .art-tags-last}
+
+**Requirements**{: .art-tag-label} X **Attribute**{: .attr-xxx} · Novice/Expert/Master Proficiency in X
+{: .art-tags .art-tags-last}
+
+Art description goes here.
+{: .art-body}
+
+**Trigger**{: .art-trigger-label} Trigger condition goes here.
+{: .art-body .art-body-more}
+
+**Effect**{: .art-effect-label} Additional effect goes here.
+{: .art-body .art-body-more}
+
+</div>
+
 ### Pierce
 (WIP)
 When you hit with an attack, ignore the damage reduction provided by the target's armor.
@@ -41,7 +64,7 @@ Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that att
 **Requirements**{: .spell-tag-label} X **Attribute**{: .attr-xxx} · Other(s)
 {: .spell-tags .spell-tags-last}
 
-**Cast Time**{: .spell-meta-label} ⬡/⬢/▶
+**Cast Time**{: .spell-meta-label} ⏣/⬡/⬢/▶
 {: .spell-meta}
 
 **Range**{: .spell-meta-label} Self / Touch / X m
