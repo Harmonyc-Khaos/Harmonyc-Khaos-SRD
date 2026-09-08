@@ -34,13 +34,42 @@ Art description goes here.
 </div>
 
 ### Pierce
-(WIP)
-When you hit with an attack, ignore the damage reduction provided by the target's armor.
-* If you have Novice proficiency in Enhancement, you ignore the target's resistance to damage.
-* If you have Expert proficiency in Enhancement, you ignore target's immunity to damage.
-* If you have Master proficiency in Enhancement, you ignore target's absorption / reflection to damage.
+
+<div class="art-card" markdown="1">
+
+**Pierce**{: .art-name} **⬡**{: .art-action} **1st Tier**{: .art-tier}
+
+**Affinity**{: .art-tag-label} Null
+{: .art-tags .art-tags-last}
+
+**Requirements**{: .art-tag-label} 7 **Dexterity**{: .attr-dex}
+{: .art-tags .art-tags-last}
+
+The next attack you hit ignores the **damage reduction** provided by the target's armor.
+{: .art-body}
+
+**Mastery**{: .art-effect-label} If you have Novice proficiency in Enhancement, you also ignore the target's resistance to damage. With Expert proficiency, you also ignore immunity. With Master proficiency, you also ignore absorption and reflection.
+{: .art-body .art-body-more}
+
+</div>
 
 ### Lunge
+
+<div class="art-card" markdown="1">
+
+**Lunge**{: .art-name} **⬢⬢**{: .art-action} **1st Tier**{: .art-tier}
+
+**Affinity**{: .art-tag-label} Polearms
+{: .art-tags .art-tags-last}
+
+**Requirements**{: .art-tag-label} 7 **Strength**{: .attr-str}
+{: .art-tags .art-tags-last}
+
+Make an attack while wielding a polearm. That attack's range increases by 1.5 meters and deals an additional amount of damage equal to your weapon's average damage. If you make a Called Shot with this attack, it has no penalties to your accuracy.
+{: .art-body}
+
+</div>
+
 (WIP)
 Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that attack has increased range and damage and no penalty to called shots.
 

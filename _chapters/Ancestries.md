@@ -237,7 +237,7 @@ You gain **Novice** Proficiency in Riding and 1 Combat Proficiency for a weapon 
 
 When you take the **Step** action during combat, your distance is doubled.
 
-When you score a critical strike you gain the effect of a 1st-tier Art of your choice that you know without expending Mana.
+When you score a critical strike you gain the effect of a 1st tier Art of your choice that you know without expending Mana.
 </div>
 
 ### House Chozekiel (The Strong)
