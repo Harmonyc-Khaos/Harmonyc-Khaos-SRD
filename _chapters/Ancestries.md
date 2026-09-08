@@ -195,10 +195,10 @@ The creation of the Vow is a ritual that takes an entire day and requires the fo
 * This ritual can only be performed by a natural-born member of the Gadoliel family.
 * The blood, sweat and tears from the creator of the Vow are required.
 * The target of the Vow must drink the mixture of the above mentioned with **blessed water**.
-* The creator of the Vow must maintain physical contact with the target.
+* The creator of the Vow must maintain physical contact with the target during the ritual.
 * The target must be true to their devotion to Yoddeh Vattet, the one and only True God.
 
-Shall the target of the Vow break their Vow by either renouncing Him as their one and only God, having their Karma reduced to below **-150**{: .negative-karma} or attacking a member of one of the Great Houses of Vinctora, then Him shall deliver divine punishment upon the target of the Vow. A beam of pure energy strikes from the skies, passing through any terrain or construct and only targetting the one person who broke the vow, they take 10d10 holy damage, which, if it reduces the target to 0 health, kills them and then destroys their body and soul forever, making them unable to become one with the stars or ever be called back. If a dweller survives this, they lose all the powers granted to them by this feature.
+Shall the target of the Vow break their Vow by either renouncing Him as their one and only God, having their Karma reduced to below **-150**{: .negative-karma} or attacking a member of one of the Great Houses of Vinctora, then Him shall deliver divine punishment upon the target of the Vow. A beam of pure energy strikes from the skies, passing through any terrain or construct and only targetting the one person who broke the vow, they take 10d10 holy damage (this damage ignores DR and resistance/immunity/absorb/repel to this damage type), which, if it reduces the target to 0 health, kills them and then destroys their body and soul forever, making them unable to become one with the stars and erasing their existence. If a dweller survives this, they lose all the powers granted to them by this feature.
 
 </div>
 
@@ -241,7 +241,7 @@ When you score a critical strike you gain the effect of a 1st-tier Art of your c
 </div>
 
 ### House Chozekiel (The Strong)
-The only Great House in the empire that has said to have preserved the knowledge and love for their creators even after centuries gone, theirs are menancing but kind-hearted individuals.
+The only Great House in the empire that has said to have preserved the knowledge and love for their creators even after centuries gone, theirs are menacing-looking but kind-hearted individuals.
 
 Heirs of the Chozekiel family are known for their rough physical features such as squared jaws and tall, often muscular, stature. Their eyes and hair are usually dark brown though some small difference in shades of brown have been noticed as well as the ever so rare ginger member of the family. Depending where they hail from within Vinctora, they may have darker shades of skin tone, specially the south.
 

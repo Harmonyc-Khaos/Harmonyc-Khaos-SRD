@@ -79,7 +79,7 @@ Spell description goes here.
 **Affinity**{: .spell-tag-label} Fire
 {: .spell-tags}
 
-**Sources**{: .spell-tag-label} Arcane · Inherit
+**Sources**{: .spell-tag-label} Inherit · Logos
 {: .spell-tags .spell-tags-last}
 
 **Requirements**{: .spell-tag-label} 5 **Intelligence**{: .attr-int} · Prima (**Novice**)
@@ -117,7 +117,7 @@ You condense your mana in the palm of your hand and transmute it into flame miss
 **Affinity**{: .spell-tag-label} Arcane
 {: .spell-tags}
 
-**Sources**{: .spell-tag-label} Arcane · Expression · Inherit
+**Sources**{: .spell-tag-label} Expression · Inherit · Logos
 {: .spell-tags .spell-tags-last}
 
 **Requirements**{: .spell-tag-label} 5 **Spirit**{: .attr-spi}
@@ -161,7 +161,7 @@ When an attack is declared against you or targets an area that includes you, you
 **Affinity**{: .spell-tag-label} Arcane
 {: .spell-tags}
 
-**Sources**{: .spell-tag-label} Arcane · Expression · Vow
+**Sources**{: .spell-tag-label} Expression · Vow · Logos
 {: .spell-tags .spell-tags-last}
 
 **Requirements**{: .spell-tag-label} 9 **Intelligence**{: .attr-int} · 9 **Spirit**{: .attr-spi} · 9 **Willpower**{: .attr-wil}
