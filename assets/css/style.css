@@ -51,7 +51,10 @@ body {
   height: 100vh;
   overflow-y: auto;
   padding: 28px 20px 40px;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
 }
+
 
 .toc-sidebar .site-title {
   font-family: var(--font-head);
@@ -643,4 +646,32 @@ body {
 }
   .content-column { padding: 76px 20px 100px; }
   .chapter { padding: 28px 22px; }
+}
+
+/* ---------- Sidebar scrollbar ---------- */
+
+.toc-sidebar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.toc-sidebar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.toc-sidebar::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 4px;
+  transition: background 0.2s ease;
+}
+
+.toc-sidebar:hover::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.toc-sidebar:hover::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}
+
+.toc-sidebar:hover {
+  scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
 }
