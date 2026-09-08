@@ -591,6 +591,95 @@ body {
 .chapter .attr-wil    { color: #ad00ff; font-weight: 700; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
 .chapter .attr-cha    { color: #ff00c8; font-weight: 700; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
 
+/* ---------- Item Cards ---------- */
+
+.chapter .item-card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 24px 0;
+  padding: 0;
+}
+
+.chapter .item-card > p:first-child {
+  background: #0d1a0d;
+  margin: 0;
+  padding: 10px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  border-bottom: 2px solid #2d6e2d;
+}
+
+.chapter .item-name {
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #a8f0a8;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  letter-spacing: 0.02em;
+}
+
+.chapter .item-tags {
+  background: #0a150a;
+  margin: 0;
+  padding: 4px 18px;
+  font-size: 0.88rem;
+  border-bottom: none;
+}
+
+.chapter .item-tags.item-tags-last {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #2d6e2d;
+}
+
+.chapter .item-tag-label {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #4a9e4a;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  margin-right: 6px;
+  display: inline-block;
+  min-width: 100px;
+}
+
+.chapter .item-body {
+  margin: 0;
+  padding: 14px 18px;
+  font-size: 0.97rem;
+  color: var(--ink);
+}
+
+.chapter .item-durability {
+  margin: 0;
+  padding: 10px 18px;
+  border-top: 1px solid #2d6e2d;
+  background: #0a150a;
+  font-size: 1.3rem;
+  letter-spacing: 3px;
+}
+
+.chapter .item-trait-label {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #4a9e4a;
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  margin-right: 6px;
+}
+
 /* ---------- Item quality colors ---------- */
 
 .chapter .quality-common     { font-weight: 700; background: linear-gradient(to bottom, #535353, #ffffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
@@ -598,6 +687,50 @@ body {
 .chapter .quality-rare       { font-weight: 700; background: linear-gradient(to bottom, #0070ff, #cfe4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
 .chapter .quality-epic       { font-weight: 700; background: linear-gradient(to bottom, #a335ee, #f0d9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
 .chapter .quality-legendary  { font-weight: 700; background: linear-gradient(to bottom, #ff8000, #ffff00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; filter: drop-shadow(0px 0px 1px #000) drop-shadow(0px 0px 1px #000); }
+
+/* ---------- Currency ---------- */
+
+.chapter .currency-bronze::before {
+  content: "";
+  display: inline-block;
+  width: 0.7em;
+  height: 0.7em;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #f4a44a, #7a4010);
+  border: 1px solid #5c2e08;
+  margin-right: 4px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+
+.chapter .currency-silver::before {
+  content: "";
+  display: inline-block;
+  width: 0.7em;
+  height: 0.7em;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #ffffff, #8a8a8a);
+  border: 1px solid #5a5a5a;
+  margin-right: 4px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+
+.chapter .currency-gold::before {
+  content: "";
+  display: inline-block;
+  width: 0.7em;
+  height: 0.7em;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #fff176, #c8900a);
+  border: 1px solid #8a6200;
+  margin-right: 4px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
 
 /* ---------- Karma ---------- */
 .chapter .positive-karma { color: #01b9fd; font-weight: 700; text-shadow: 0 0 6px #fff, 0 0 10px #fff, 0 0 4px #fff; }

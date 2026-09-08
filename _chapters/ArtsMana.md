@@ -65,13 +65,10 @@ The next attack you hit ignores the **damage reduction** provided by the target'
 **Requirements**{: .art-tag-label} 7 **Strength**{: .attr-str}
 {: .art-tags .art-tags-last}
 
-Make an attack while wielding a polearm. That attack's range increases by 1.5 meters and deals an additional amount of damage equal to your weapon's average damage. If you make a Called Shot with this attack, it has no penalties to your accuracy.
+Make an attack with a polearm that you are wielding. That attack's range increases by 1.5 meters and deals an additional amount of damage equal to your weapon's average damage. If you make a Called Shot with this attack, it has no penalties to your accuracy.
 {: .art-body}
 
 </div>
-
-(WIP)
-Polearms' signature Art, expend 2 ⬢ and 1 Mana when making an attack, that attack has increased range and damage and no penalty to called shots.
 
 ## Spells
 
