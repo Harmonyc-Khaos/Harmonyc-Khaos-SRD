@@ -40,7 +40,7 @@ You may choose any Affinity as your primary Affinity when creating your characte
 
 Become one size larger (Maximum size is Large). On level up, add twice your Constitution modifier to your maximum HP increase.
 
-You gain **Novice** Proficiency with Alflos.
+You gain **Novice** Proficiency with Enhancement magic.
 
 ### Skewered Fate (Boon)
 
