@@ -33,14 +33,71 @@ Art description goes here.
 
 </div>
 
+### Vel
+
+<div class="art-card" markdown="1">
+
+**Vel**{: .art-name} **⬢⬢**{: .art-action} **Principle**{: .art-tier}
+
+**Requirements**{: .art-tag-label} None
+{: .art-tags .art-tags-last}
+
+You stabilize the Mana within your body so that it wraps around your body, taking the shape of a thin shroud. Rather than leak out constantly, your Mana now is concentrated around your body, granting you a basic level of protection.
+
+While active, Vel grants you 1 **DR** against all physical damage types and 3 **DR** against all energy damage types. It stays active until you are knocked unconscious or you dismiss it as a ⏣ action.
+{: .art-body}
+</div>
+
+### Auga
+<div class="art-card" markdown="1">
+
+**Auga**{: .art-name} **⬢⬢**{: .art-action} **Principle**{: .art-tier}
+
+**Requirements**{: .art-tag-label} Vel
+{: .art-tags .art-tags-last}
+
+You must have Vel active to use Auga.
+
+You augment your Mana's output so that it flows out explosively. While active, the **DR** granted by Vel increases by an amount equal to your Magic modifier (min. 1). Additionally, you add your Magic modifier to all your effects that deal damage to a target other than yourself or an area that you target.
+{: .art-body}
+
+**Drawback**{: .art-effect-label} At the end of each **R**{: .notation title="Round"}, expend 1 Mana or lose the effects of both Auga and Vel.
+{: .art-body .art-body-more}
+
+**Mastery**{: .art-effect-label}
+If you activate Auga 20 times, the cast time is reduced to ⬢.
+
+If you manage to maintain Auga active for 10 **T**{: .notation title="Turn"} in a row, the Drawback only activates every 1 minute instead of every round.
+{: .art-body .art-body-more}
+</div>
+
+### Nihil
+
+<div class="art-card" markdown="1">
+
+**Nihil**{: .art-name} **⬢⬢**{: .art-action} **Principle**{: .art-tier}
+
+**Requirements**{: .art-tag-label} None
+{: .art-tags .art-tags-last}
+
+You enter a state of meditation that closes off all the Mana nodes in your body. While this effect is active, you cannot use any Art or activate effects that require Mana to activate. All magical effects active on you are supressed while Nihil is active. You become undetectable by any magical effect.
+
+You must maintain **concentration** to keep this effect active. Declaring an attack against a target also breaks your concentration on this art after the attack is made.
+{: .art-body}
+
+**Mastery**{: .art-effect-label} If you manage to maintain concentration with Nihil active 10 times after taking damage, the cast time is reduced to ⬢.
+
+If you manage to maintain concentration with Nihil active 30 times after taking damage, the cast time is reduced to ⬡.
+
+If you manage to maintain concentration with Nihil active 60 times after taking damage, the cast time is reduced to ⏣.
+{: .art-body .art-body-more}
+</div>
+
 ### Pierce
 
 <div class="art-card" markdown="1">
 
 **Pierce**{: .art-name} **⬡**{: .art-action} **1st Tier**{: .art-tier}
-
-**Affinity**{: .art-tag-label} Null
-{: .art-tags .art-tags-last}
 
 **Requirements**{: .art-tag-label} 7 **Dexterity**{: .attr-dex}
 {: .art-tags .art-tags-last}
@@ -48,7 +105,11 @@ Art description goes here.
 The next attack you hit ignores the **damage reduction** provided by the target's armor.
 {: .art-body}
 
-**Mastery**{: .art-effect-label} If you have Novice proficiency in Enhancement, you also ignore the target's resistance to damage. With Expert proficiency, you also ignore immunity. With Master proficiency, you also ignore absorption and reflection.
+**Mastery**{: .art-effect-label} If you have Novice proficiency in Enhancement, you also ignore the target's resistance to damage.
+
+With Expert proficiency, you also ignore immunity.
+
+With Master proficiency, you also ignore absorption and reflection.
 {: .art-body .art-body-more}
 
 </div>
@@ -59,13 +120,10 @@ The next attack you hit ignores the **damage reduction** provided by the target'
 
 **Lunge**{: .art-name} **⬢⬢**{: .art-action} **1st Tier**{: .art-tier}
 
-**Affinity**{: .art-tag-label} Polearms
-{: .art-tags .art-tags-last}
-
 **Requirements**{: .art-tag-label} 7 **Strength**{: .attr-str}
 {: .art-tags .art-tags-last}
 
-Make an attack with a polearm that you are wielding. That attack's range increases by 1.5 meters and deals an additional amount of damage equal to your weapon's average damage. If you make a Called Shot with this attack, it has no penalties to your accuracy.
+Make an attack with a weapon that you are wielding. That attack's range increases by 1.5 meters and deals an additional amount of damage equal to your weapon's average damage. If you make a Called Shot with this attack, it has no penalties to your accuracy.
 {: .art-body}
 
 </div>

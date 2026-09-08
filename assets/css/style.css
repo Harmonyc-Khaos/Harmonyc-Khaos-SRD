@@ -642,8 +642,6 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  color: #4a9e4a;
-  background: none;
   padding: 0;
   border-radius: 0;
   margin-right: 6px;
@@ -663,8 +661,9 @@ body {
   padding: 10px 18px;
   border-top: 1px solid #2d6e2d;
   background: #0a150a;
-  font-size: 1.3rem;
-  letter-spacing: 3px;
+  font-size: 2rem;
+  letter-spacing: 4px;
+  color: #e0000a;
 }
 
 .chapter .item-trait-label {
@@ -673,12 +672,37 @@ body {
   font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  color: #4a9e4a;
-  background: none;
   padding: 0;
   border-radius: 0;
   margin-right: 6px;
 }
+
+.chapter .item-card.quality-bg-common    { background: #1a1a1a; border-color: #535353; }
+.chapter .item-card.quality-bg-uncommon  { background: #0a1a0a; border-color: #00c420; }
+.chapter .item-card.quality-bg-rare      { background: #090f1f; border-color: #0070ff; }
+.chapter .item-card.quality-bg-epic      { background: #130a1f; border-color: #a335ee; }
+.chapter .item-card.quality-bg-legendary { background: #1f1200; border-color: #ff8000; }
+
+.chapter .item-card.quality-bg-common    .item-tags,
+.chapter .item-card.quality-bg-common    .item-durability { background: #111111; }
+
+.chapter .item-card.quality-bg-uncommon  .item-tags,
+.chapter .item-card.quality-bg-uncommon  .item-durability { background: #061006; }
+
+.chapter .item-card.quality-bg-rare      .item-tags,
+.chapter .item-card.quality-bg-rare      .item-durability { background: #050810; }
+
+.chapter .item-card.quality-bg-epic      .item-tags,
+.chapter .item-card.quality-bg-epic      .item-durability { background: #0c0614; }
+
+.chapter .item-card.quality-bg-legendary .item-tags,
+.chapter .item-card.quality-bg-legendary .item-durability { background: #140c00; }
+
+.chapter .item-card.quality-bg-common    > p:first-child { background: #222222; border-bottom-color: #535353; }
+.chapter .item-card.quality-bg-uncommon  > p:first-child { background: #0d200d; border-bottom-color: #00c420; }
+.chapter .item-card.quality-bg-rare      > p:first-child { background: #0a1228; border-bottom-color: #0070ff; }
+.chapter .item-card.quality-bg-epic      > p:first-child { background: #180d28; border-bottom-color: #a335ee; }
+.chapter .item-card.quality-bg-legendary > p:first-child { background: #281800; border-bottom-color: #ff8000; }
 
 /* ---------- Item quality colors ---------- */
 
@@ -690,7 +714,7 @@ body {
 
 /* ---------- Currency ---------- */
 
-.chapter .currency-bronze::before {
+.chapter .currency-bronze::after {
   content: "";
   display: inline-block;
   width: 0.7em;
@@ -704,7 +728,7 @@ body {
   top: -1px;
 }
 
-.chapter .currency-silver::before {
+.chapter .currency-silver::after {
   content: "";
   display: inline-block;
   width: 0.7em;
@@ -718,7 +742,7 @@ body {
   top: -1px;
 }
 
-.chapter .currency-gold::before {
+.chapter .currency-gold::after {
   content: "";
   display: inline-block;
   width: 0.7em;

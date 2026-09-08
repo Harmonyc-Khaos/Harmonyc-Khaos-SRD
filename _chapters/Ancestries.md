@@ -268,7 +268,7 @@ If you choose this heritage your **Affinity** becomes **Nature**.
 <div class="ability-card" markdown="1">
 
 **Solitude**{: .feature}
-You learn the 'Null' art. When you use it through this feature, you gain the **invisible** condition as well, which remains active for as long as you don't break the conditions to maintain the art. This effect does not count as a magical ability nor can it be detected by any magical means.
+You learn the 'Nihil' Art. When you use it through this feature, you gain the **invisible** condition as well, which remains active for as long as you don't break the conditions to maintain the art. This effect does not count as a magical ability nor can it be detected by any magical means.
 
 </div>
 
@@ -285,7 +285,7 @@ If you choose this heritage your **Affinity** becomes **Air**.
 <div class="ability-card" markdown="1">
 
 **Twist of Fate**{: .feature}
-As a free reaction; whenever a dweller that you are aware of within 9 meters of you (including yourself) makes a **D20 Roll**, you may add or remove a 1d10 to that roll. You must complete a rest before you use this feature again.
+As a ⏣ Rebuttal; whenever a dweller that you are aware of within 9 meters of you (including yourself) makes a **D20 Roll**, you may add or remove a 1d10 to that roll. You must complete a rest before you use this feature again.
 
 At 7th level, you gain a second use of this feature. At 15th level you gain a third use of this feature. At 24th level you gain a fourth use of this feature. At 34th level, you gain a fifth use of this feature. 
 
