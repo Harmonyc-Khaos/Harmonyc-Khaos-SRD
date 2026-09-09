@@ -40,4 +40,22 @@ document.addEventListener('DOMContentLoaded', function () {
   if (printBtn) {
     printBtn.addEventListener('click', function () { window.print(); });
   }
+
+  // Heart durability toggle
+  document.querySelectorAll('.item-durability').forEach(function(el) {
+    var hearts = el.textContent.trim().split('').filter(function(c) {
+      return c === '♥';
+    });
+    if (!hearts.length) return;
+
+    el.innerHTML = hearts.map(function() {
+      return '<span class="heart">♥</span>';
+    }).join('');
+
+    el.querySelectorAll('.heart').forEach(function(heart) {
+      heart.addEventListener('click', function() {
+        heart.classList.toggle('heart-broken');
+      });
+    });
+  });
 });

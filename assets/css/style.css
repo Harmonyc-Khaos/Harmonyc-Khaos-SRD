@@ -223,7 +223,7 @@ body {
   margin: 0;
   padding: 10px 18px;
   display: flex;
-  align-items: center;
+  align-items: baseline;
   justify-content: flex-start;
   gap: 8px;
   border-bottom: 2px solid var(--accent);
@@ -662,8 +662,27 @@ body {
   border-top: 1px solid #2d6e2d;
   background: #0a150a;
   font-size: 2rem;
-  letter-spacing: 4px;
+  letter-spacing: 10px;
   color: #e0000a;
+}
+
+.chapter .heart {
+  cursor: pointer;
+  display: inline-block;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+
+.chapter .heart:hover {
+  transform: scale(1.2);
+}
+
+.chapter .heart.heart-broken {
+  color: #3a0002;
+  text-decoration: line-through;
+  text-decoration-color: #888;
+  text-decoration-thickness: 3px;
+  opacity: 0.5;
 }
 
 .chapter .item-trait-label {

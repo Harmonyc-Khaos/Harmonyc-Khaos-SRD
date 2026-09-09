@@ -69,10 +69,10 @@ You augment your Mana's output so that it flows out explosively. While active, t
 {: .art-body .art-body-more}
 
 **Mastery**{: .art-effect-label}
-If you activate Auga 20 times, the cast time is reduced to ⬢.
+* If you activate Auga 20 times, the cast time is reduced to ⬢.
 {: .art-body .art-body-more}
 
-If you manage to maintain Auga active for 10 **T**{: .notation title="Turn"} in a row, the Drawback only activates every 1 minute instead of every round.
+* If you manage to maintain Auga active for 10 **T**{: .notation title="Turn"} in a row, the Drawback permanently becomes: "At the end of each minute, expend 1 Mana or lose the effects of both Auga and Vel."
 {: .art-body}
 
 </div>
@@ -92,13 +92,27 @@ You enter a state of meditation that closes off all the Mana nodes in your body.
 You must maintain **concentration** to keep this effect active. Declaring an attack against a target also breaks your concentration on this art after the attack is made.
 {: .art-body}
 
-**Mastery**{: .art-effect-label} If you manage to maintain concentration with Nihil active 10 times after taking damage, the cast time is reduced to ⬢.
+**Mastery**{: .art-effect-label}
+* If you manage to maintain concentration with Nihil active 10 times after taking damage, the cast time is reduced to ⬢.
 {: .art-body .art-body-more}
 
-If you manage to maintain concentration with Nihil active 30 times after taking damage, the cast time is reduced to ⬡.
+* If you manage to maintain concentration with Nihil active 30 times after taking damage, the cast time is reduced to ⬡.
 {: .art-body}
 
-If you manage to maintain concentration with Nihil active 60 times after taking damage, the cast time is reduced to ⏣.
+* If you manage to maintain concentration with Nihil active 60 times after taking damage, the cast time is reduced to ⏣.
+{: .art-body}
+
+</div>
+
+### Charge
+<div class="art-card" markdown="1">
+
+**Charge**{: .art-name} **⬢**{: .art-action} **1st Tier**{: .art-tier}
+
+**Requirements**{: .art-tag-label} None
+{: .art-tags .art-tags-last}
+
+If the next attack you make hits, it deals maximum damage.
 {: .art-body}
 
 </div>
@@ -112,16 +126,17 @@ If you manage to maintain concentration with Nihil active 60 times after taking 
 **Requirements**{: .art-tag-label} 7 **Dexterity**{: .attr-dex}
 {: .art-tags .art-tags-last}
 
-The next attack you hit ignores the **damage reduction** provided by the target's armor.
+If the next attack you make hits, it ignores the **damage reduction** provided by the target's armor.
 {: .art-body}
 
-**Mastery**{: .art-effect-label} If you have Novice proficiency in Enhancement, you also ignore the target's resistance to damage.
+**Mastery**{: .art-effect-label}
+* If you have Novice proficiency in Enhancement, you also ignore the target's resistance to damage.
 {: .art-body .art-body-more}
 
-With Expert proficiency, you also ignore immunity.
+* With Expert proficiency, you also ignore immunity.
 {: .art-body}
 
-With Master proficiency, you also ignore absorption and reflection.
+* With Master proficiency, you also ignore absorption and reflection.
 {: .art-body}
 
 </div>
