@@ -331,6 +331,18 @@ body {
   margin-right: 6px;
 }
 
+.chapter .art-body ul,
+.chapter .art-body-more ul {
+  margin: 4px 0 0 0;
+  padding-left: 22px;
+}
+
+.chapter .art-body li,
+.chapter .art-body-more li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
 /* ---------- Spell Cards ---------- */
 
 .chapter .spell-card {
