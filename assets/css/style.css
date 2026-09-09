@@ -333,10 +333,11 @@ body {
 
 .chapter .art-body ul,
 .chapter .art-body-more ul {
-  margin: 8px 0 0 0;
-  padding-left: 22px;
+  margin: 2px 0 0 0;
+  padding-left: 18px;
   padding-right: 18px;
   padding-bottom: 4px;
+  list-style-position: inside;
 }
 
 .chapter .art-body li,

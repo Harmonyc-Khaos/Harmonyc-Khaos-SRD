@@ -68,7 +68,8 @@ You augment your Mana's output so that it flows out explosively. While active, t
 **Drawback**{: .art-effect-label} At the end of each **R**{: .notation title="Round"}, expend 1 Mana or lose the effects of both Auga and Vel.
 {: .art-body .art-body-more}
 
-**Mastery**{: .art-effect-label}{: .art-body .art-body-more}
+**Mastery**{: .art-effect-label}
+{: .art-body .art-body-more}
 - If you activate Auga 20 times, the cast time is reduced to ⬢.
 - If you manage to maintain Auga active for 10 **T**{: .notation title="Turn"} in a row, the Drawback permanently becomes: "At the end of each minute, expend 1 Mana or lose the effects of both Auga and Vel."
 {: .art-body}
