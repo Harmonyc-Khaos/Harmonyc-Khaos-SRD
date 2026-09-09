@@ -73,6 +73,8 @@ You augment your Mana's output so that it flows out explosively. While active, t
 - If you manage to maintain Auga active for 10 **T**{: .notation title="Turn"} in a row, the Drawback permanently becomes: "At the end of each minute, expend 1 Mana or lose the effects of both Auga and Vel."
 {: .art-body .art-body-more}
 
+</div>
+
 ### Nihil
 
 <div class="art-card" markdown="1">
