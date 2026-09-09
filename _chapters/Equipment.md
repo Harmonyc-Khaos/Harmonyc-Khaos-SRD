@@ -6,7 +6,7 @@ slug: chapter-7
 
 # Chapter 7: Equipment
 
-## Item Template
+### Item Template
 
 <div class="item-card quality-bg-common" markdown="1">
 
@@ -41,7 +41,7 @@ Item description and any special properties go here.
 
 </div>
 
-## Item Template 2
+### Item Template 2
 
 <div class="item-card quality-bg-uncommon" markdown="1">
 
@@ -76,7 +76,7 @@ Item description and any special properties go here.
 
 </div>
 
-## Item Template 3
+### Item Template 3
 
 <div class="item-card quality-bg-rare" markdown="1">
 
@@ -111,7 +111,7 @@ Item description and any special properties go here.
 
 </div>
 
-## Item Template 4
+### Item Template 4
 
 <div class="item-card quality-bg-epic" markdown="1">
 
@@ -146,7 +146,7 @@ Item description and any special properties go here.
 
 </div>
 
-## Item Template 5
+### Item Template 5
 <div class="item-card quality-bg-legendary" markdown="1">
 
 **Item Name**{: .item-name}

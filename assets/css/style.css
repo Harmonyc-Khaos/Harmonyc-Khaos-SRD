@@ -286,6 +286,7 @@ body {
 .chapter .art-tags.art-tags-last {
   padding-bottom: 10px;
   border-bottom: 1px solid var(--accent);
+  align-items: baseline;
 }
 
 .chapter .art-tag-label {
@@ -301,6 +302,7 @@ body {
   margin-right: 6px;
   display: inline-block;
   min-width: 100px;
+  vertical-align: middle;
 }
 
 .chapter .art-body {
@@ -606,7 +608,7 @@ body {
   margin: 0;
   padding: 10px 18px;
   display: flex;
-  align-items: center;
+  align-items: baseline;
   justify-content: flex-start;
   gap: 8px;
   border-bottom: 2px solid #2d6e2d;
@@ -642,11 +644,13 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.06em;
+  color: #4a9e4a;
   padding: 0;
   border-radius: 0;
   margin-right: 6px;
   display: inline-block;
   min-width: 100px;
+  vertical-align: middle;
 }
 
 .chapter .item-body {
@@ -671,6 +675,7 @@ body {
   display: inline-block;
   transition: all 0.15s ease;
   user-select: none;
+  position: relative;
 }
 
 .chapter .heart:hover {
@@ -679,10 +684,24 @@ body {
 
 .chapter .heart.heart-broken {
   color: #3a0002;
-  text-decoration: line-through;
-  text-decoration-color: #888;
-  text-decoration-thickness: 3px;
   opacity: 0.5;
+}
+
+.chapter .heart.heart-broken::after {
+  content: "";
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 115%;
+  height: 115%;
+  background: linear-gradient(
+    135deg,
+    transparent 42%,
+    #000 42%,
+    #000 58%,
+    transparent 58%
+  );
+  pointer-events: none;
 }
 
 .chapter .item-trait-label {
@@ -691,37 +710,70 @@ body {
   font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
+  color: #4a9e4a;
   padding: 0;
   border-radius: 0;
   margin-right: 6px;
 }
 
+/* Quality backgrounds */
 .chapter .item-card.quality-bg-common    { background: #1a1a1a; border-color: #535353; }
 .chapter .item-card.quality-bg-uncommon  { background: #0a1a0a; border-color: #00c420; }
 .chapter .item-card.quality-bg-rare      { background: #090f1f; border-color: #0070ff; }
 .chapter .item-card.quality-bg-epic      { background: #130a1f; border-color: #a335ee; }
 .chapter .item-card.quality-bg-legendary { background: #1f1200; border-color: #ff8000; }
 
+/* Quality tag backgrounds */
 .chapter .item-card.quality-bg-common    .item-tags,
 .chapter .item-card.quality-bg-common    .item-durability { background: #111111; }
-
 .chapter .item-card.quality-bg-uncommon  .item-tags,
 .chapter .item-card.quality-bg-uncommon  .item-durability { background: #061006; }
-
 .chapter .item-card.quality-bg-rare      .item-tags,
 .chapter .item-card.quality-bg-rare      .item-durability { background: #050810; }
-
 .chapter .item-card.quality-bg-epic      .item-tags,
 .chapter .item-card.quality-bg-epic      .item-durability { background: #0c0614; }
-
 .chapter .item-card.quality-bg-legendary .item-tags,
 .chapter .item-card.quality-bg-legendary .item-durability { background: #140c00; }
 
+/* Quality header */
 .chapter .item-card.quality-bg-common    > p:first-child { background: #222222; border-bottom-color: #535353; }
 .chapter .item-card.quality-bg-uncommon  > p:first-child { background: #0d200d; border-bottom-color: #00c420; }
 .chapter .item-card.quality-bg-rare      > p:first-child { background: #0a1228; border-bottom-color: #0070ff; }
 .chapter .item-card.quality-bg-epic      > p:first-child { background: #180d28; border-bottom-color: #a335ee; }
 .chapter .item-card.quality-bg-legendary > p:first-child { background: #281800; border-bottom-color: #ff8000; }
+
+/* Quality label + line colors */
+.chapter .item-card.quality-bg-common    .item-tag-label,
+.chapter .item-card.quality-bg-common    .item-trait-label { color: #888888; }
+.chapter .item-card.quality-bg-common    .item-tags.item-tags-last,
+.chapter .item-card.quality-bg-common    .item-durability { border-color: #535353; }
+
+.chapter .item-card.quality-bg-uncommon  .item-tag-label,
+.chapter .item-card.quality-bg-uncommon  .item-trait-label { color: #00c420; }
+.chapter .item-card.quality-bg-uncommon  .item-tags.item-tags-last,
+.chapter .item-card.quality-bg-uncommon  .item-durability { border-color: #00c420; }
+
+.chapter .item-card.quality-bg-rare      .item-tag-label,
+.chapter .item-card.quality-bg-rare      .item-trait-label { color: #0070ff; }
+.chapter .item-card.quality-bg-rare      .item-tags.item-tags-last,
+.chapter .item-card.quality-bg-rare      .item-durability { border-color: #0070ff; }
+
+.chapter .item-card.quality-bg-epic      .item-tag-label,
+.chapter .item-card.quality-bg-epic      .item-trait-label { color: #a335ee; }
+.chapter .item-card.quality-bg-epic      .item-tags.item-tags-last,
+.chapter .item-card.quality-bg-epic      .item-durability { border-color: #a335ee; }
+
+.chapter .item-card.quality-bg-legendary .item-tag-label,
+.chapter .item-card.quality-bg-legendary .item-trait-label { color: #ff8000; }
+.chapter .item-card.quality-bg-legendary .item-tags.item-tags-last,
+.chapter .item-card.quality-bg-legendary .item-durability { border-color: #ff8000; }
+
+/* Quality item name color */
+.chapter .item-card.quality-bg-common    .item-name { color: #aaaaaa; }
+.chapter .item-card.quality-bg-uncommon  .item-name { color: #a8f0a8; }
+.chapter .item-card.quality-bg-rare      .item-name { color: #a8c8ff; }
+.chapter .item-card.quality-bg-epic      .item-name { color: #d4a8ff; }
+.chapter .item-card.quality-bg-legendary .item-name { color: #ffd080; }
 
 /* ---------- Item quality colors ---------- */
 
