@@ -33,7 +33,7 @@ Item description and any special properties go here.
 **Trait**{: .item-trait-label} Trait description goes here.
 {: .item-body}
 
-**Signature Art**{: .item-trait-label} Art name goes here.
+**Art**{: .item-trait-label} Art name goes here.
 {: .item-body}
 
 ♥♥♥
@@ -68,7 +68,7 @@ Item description and any special properties go here.
 **Trait**{: .item-trait-label} Trait description goes here.
 {: .item-body}
 
-**Signature Art**{: .item-trait-label} Art name goes here.
+**Art**{: .item-trait-label} Art name goes here.
 {: .item-body}
 
 ♥♥♥
@@ -103,7 +103,7 @@ Item description and any special properties go here.
 **Trait**{: .item-trait-label} Trait description goes here.
 {: .item-body}
 
-**Signature Art**{: .item-trait-label} Art name goes here.
+**Art**{: .item-trait-label} Art name goes here.
 {: .item-body}
 
 ♥♥♥

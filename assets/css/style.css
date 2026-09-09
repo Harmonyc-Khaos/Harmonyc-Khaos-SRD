@@ -687,23 +687,6 @@ body {
   opacity: 0.5;
 }
 
-.chapter .heart.heart-broken::after {
-  content: "";
-  position: absolute;
-  top: 10%;
-  left: 10%;
-  width: 115%;
-  height: 115%;
-  background: linear-gradient(
-    135deg,
-    transparent 42%,
-    #000 42%,
-    #000 58%,
-    transparent 58%
-  );
-  pointer-events: none;
-}
-
 .chapter .item-trait-label {
   font-family: var(--font-ui);
   font-weight: 700;
