@@ -314,6 +314,7 @@ body {
 
 .chapter .art-body.art-body-more {
   border-top: 1px solid var(--accent-soft);
+  padding-bottom: 4px;
 }
 
 .chapter .art-trigger-label,
@@ -333,8 +334,8 @@ body {
 
 .chapter .art-body ul,
 .chapter .art-body-more ul {
-  margin: 2px 0 0 0;
-  padding-left: 18px;
+  margin-top: 0;
+  padding-left: 48px;
   padding-right: 18px;
   padding-bottom: 4px;
   list-style-position: inside;
