@@ -39,6 +39,15 @@ Description of what the action does goes here.
 
 ### Interact
 
+<div class="action-card" markdown="1">
+
+**Interact**{: .action-name} **⬢**{: .action-symbol}
+
+You use a body part to interact with an object or terrain within reach. You can grab an unattended or stored object, open or close a mechanism or produce an effect that requires physical contact. You might have to succeed a Skill Proficiency Test to successfully complete this action.
+{: .action-body .action-section}
+
+</div>
+
 ### Pass
 
 <div class="action-card" markdown="1">
@@ -55,6 +64,8 @@ Choose a willing allied dweller that hasn't had a turn yet this round, it become
 
 ### Release
 
+<div class="action-card" markdown="1">
+
 **Release**{: .action-name} **⏣**{: .action-symbol}
 
 **Requirements**{: .action-label} You must me holding something.
@@ -65,14 +76,22 @@ You release something that you are holding. If nothing else is keeping it on you
 You can, as a ⏣ Rebuttal, use this action.
 {: .action-body .action-section}
 
+</div>
+
 ### Sprint
+
+<div class="action-card" markdown="1">
 
 **Sprint**{: .action-name} **⬢**{: .action-symbol}
 
 You move a distance up to your base movement speed.
 {: .action-body .action-section}
 
+</div>
+
 ### Step
+
+<div class="action-card" markdown="1">
 
 **Step**{: .action-name} **⬡**{: .action-symbol}
 
@@ -81,7 +100,11 @@ You swiftly move 1.5 meters. When you take this action, dwellers cannot use **Re
 When you are targetted by an or are within the area of effect of an attack, you can, as a ⬡ Rebuttal, take this action. If you do so, an attack that targetted you has disadvantage to its accuracy, if it still hits, this action is canceled and you are knocked prone. If you leave an area of effect when you take this action, you are unaffected by that area of effect.
 {: .action-body .action-section}
 
+</div>
+
 ### Strike
+
+<div class="action-card" markdown="1">
 
 **Strike**{: .action-name} **⬢**{: .action-symbol}
 
@@ -95,3 +118,5 @@ You make an attack with a weapon that you are wielding or with an unarmed strike
 
 **Critical Failure**{: .action-label} The target dweller gains the ability to take a Basic Action as a ⏣ Rebuttal provided that action only takes a ⬢, ⬡ or ⏣ to perform and that the requirements are met for that action.
 {: .action-body .action-section}
+
+</div>
