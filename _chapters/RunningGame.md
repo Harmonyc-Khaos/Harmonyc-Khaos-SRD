@@ -23,16 +23,16 @@ slug: chapter-9
 Description of what the action does goes here.
 {: .action-body .action-section}
 
-**Critical Success**{: .action-label} What happens on a critical success.
+**Critical Success**{: .success-critical}{: .action-label} What happens on a critical success.
 {: .action-body .action-section}
 
-**Success**{: .action-label} What happens on a success.
+**Success**{: .success-normal}{: .action-label} What happens on a success.
 {: .action-body .action-section}
 
-**Failure**{: .action-label} What happens on a failure.
+**Failure**{: .failure-normal}{: .action-label} What happens on a failure.
 {: .action-body .action-section}
 
-**Critical Failure**{: .action-label} What happens on a critical failure.
+**Critical Failure**{: .failure-critical}{: .action-label} What happens on a critical failure.
 {: .action-body .action-section}
 
 </div>
@@ -113,13 +113,13 @@ When you are targetted by an or are within the area of effect of an attack, you 
 You make an attack with a weapon that you are wielding or with an unarmed strike, targetting one dweller within your reach (melee attack) or within range (ranged attack). Roll for that attack's **Accuracy** and compare it with your target's **Evasion**; if your accuracy is equal or greater than their evasion, you hit.
 {: .action-body .action-section}
 
-**Critical Success**{: .action-label} You deal double damage and gain an additional ⬡.
+**Critical Success**{: .success-critical}{: .action-label} You deal double damage and gain an additional ⬡.
 {: .action-body .action-section}
 
-**Success**{: .action-label} You deal damage according to the weapon or unarmed strike, including any bonuses or penalties to damage.
+**Success**{: .success-normal}{: .action-label} You deal damage according to the weapon or unarmed strike, including any bonuses or penalties to damage.
 {: .action-body .action-section}
 
-**Critical Failure**{: .action-label} The target dweller gains the ability to take a Basic Action as a ⏣ Rebuttal provided that action only takes a ⬢, ⬡ or ⏣ to perform and that the requirements are met for that action.
+**Critical Failure**{: .failure-critical}{: .action-label} The target dweller gains the ability to take a Basic Action as a ⏣ Rebuttal provided that action only takes a ⬢, ⬡ or ⏣ to perform and that the requirements are met for that action.
 {: .action-body .action-section}
 
 </div>

@@ -682,6 +682,13 @@ body {
   cursor: help;
 }
 
+/* ---------- Degree of success colors ---------- */
+
+.chapter .success-critical { color: #1a4fff; font-weight: 700; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
+.chapter .success-normal   { color: #00b0f6; font-weight: 700; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
+.chapter .failure-normal   { color: #f80000; font-weight: 700; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
+.chapter .failure-critical { color: #8b0000; font-weight: 700; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
+
 /* ---------- Attribute colors ---------- */
 
 .chapter .attr-str    { color: #ff0000; font-weight: 700; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; }
