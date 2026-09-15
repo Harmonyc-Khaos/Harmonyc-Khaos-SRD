@@ -72,9 +72,10 @@ Choose a willing allied dweller that hasn't had a turn yet this round, it become
 {: .action-body .action-section}
 
 You release something that you are holding. If nothing else is keeping it on your person (like another body part holding it) it is let loose and may drop.
+{: .action-body .action-section}
 
 You can, as a ⏣ Rebuttal, use this action.
-{: .action-body .action-section}
+{: .action-body}
 
 </div>
 
@@ -96,9 +97,10 @@ You move a distance up to your base movement speed.
 **Step**{: .action-name} **⬡**{: .action-symbol}
 
 You swiftly move 1.5 meters. When you take this action, dwellers cannot use **Rebuttals** in response to it.
+{: .action-body .action-section}
 
 When you are targetted by an or are within the area of effect of an attack, you can, as a ⬡ Rebuttal, take this action. If you do so, an attack that targetted you has disadvantage to its accuracy, if it still hits, this action is canceled and you are knocked prone. If you leave an area of effect when you take this action, you are unaffected by that area of effect.
-{: .action-body .action-section}
+{: .action-body}
 
 </div>
 
@@ -109,6 +111,7 @@ When you are targetted by an or are within the area of effect of an attack, you 
 **Strike**{: .action-name} **⬢**{: .action-symbol}
 
 You make an attack with a weapon that you are wielding or with an unarmed strike, targetting one dweller within your reach (melee attack) or within range (ranged attack). Roll for that attack's **Accuracy** and compare it with your target's **Evasion**; if your accuracy is equal or greater than their evasion, you hit.
+{: .action-body .action-section}
 
 **Critical Success**{: .action-label} You deal double damage and gain an additional ⬡.
 {: .action-body .action-section}
