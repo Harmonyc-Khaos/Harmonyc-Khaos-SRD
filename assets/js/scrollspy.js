@@ -58,4 +58,25 @@ document.addEventListener('DOMContentLoaded', function () {
       });
     });
   });
+
+  // Collapsible cards under h3 headings
+  document.querySelectorAll('.chapter h3').forEach(function(heading) {
+    var card = heading.nextElementSibling;
+    while (card && card.tagName !== 'SECTION' && !card.classList.contains('spell-card') && !card.classList.contains('art-card')) {
+      card = card.nextElementSibling;
+    }
+    if (!card) return;
+    if (!card.classList.contains('spell-card') && !card.classList.contains('art-card')) return;
+
+    heading.classList.add('collapsible-heading');
+    card.classList.add('collapsible-card');
+    card.style.display = 'none';
+
+    heading.addEventListener('click', function() {
+      var isOpen = card.style.display !== 'none';
+      card.style.display = isOpen ? 'none' : 'block';
+      heading.classList.toggle('collapsible-open', !isOpen);
+    });
+  });
+
 });
