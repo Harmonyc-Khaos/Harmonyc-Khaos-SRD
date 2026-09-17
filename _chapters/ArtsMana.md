@@ -273,7 +273,8 @@ If your **Intelligence**{: .attr-int} modifier is negative, you subtract the num
 
 **Mana Sink**{: .spell-sink-label} You can expend an additional amount of mana to create an equal additional amount of projectiles. The amount of mana you can expend is equal to your Magic modifier. {: .spell-sink}
 
-**Infusion**{: .spell-infusion-label} If you have Novice Proficiency in Transmutation, you can make it so the projectiles gain the following effects based on your primary Affinity instead of dealing force damage.{: .spell-infusion}
+**Infusion**{: .spell-infusion-label} If you have Novice Proficiency in Transmutation, you can make it so the projectiles gain the following effects based on your primary Affinity instead of dealing force damage.
+{: .spell-infusion}
 
 - Fire: The damage type becomes fire. If one dweller takes 10 or more fire damage from this spell, they are set ablaze.
 - Water: The damage type becomes bludgeoning and each projectile deals 1 additional acid or cold damage to all dwellers within 1.5 meters of the target.
