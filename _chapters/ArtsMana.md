@@ -327,8 +327,8 @@ When an attack is declared against you or targets an area that includes you, you
 **Overcast**{: .spell-overcast-label} If you have Expert Proficiency in Emission, you can expend an additional ⬢ to grant the benefits of 'Shield' to all dwellers within 1.5 meters of you.
 {: .spell-overcast}
 
-**Upcast**{: .spell-upcast-label} If you cast this spell at a higher tier than 1st: The damage reduction is multiplied by the tier of the spell.
-{: .spell-upcast}
+**Mana Sink**{: .spell-sink-label}  You can expend an additional amount of mana to increase the amount of DR provided by the spell. The damage reduction is multiplied by the amount of mana expended.
+{: .spell-sink}
 
 **Drawback**{: .spell-drawback-label} You cannot use other reactions until the end of the duration of this spell.
 {: .spell-drawback}
