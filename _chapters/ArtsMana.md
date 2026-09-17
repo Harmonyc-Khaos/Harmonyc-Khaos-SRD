@@ -271,7 +271,8 @@ For each Proficiency Rank above Novice that you have in Emission, the range of t
 If your **Intelligence**{: .attr-int} modifier is negative, you subtract the number of projectiles you manifest by that amount.
 {: .spell-body .spell-body-more}
 
-**Mana Sink**{: .spell-sink-label} You can expend an additional amount of mana to create an equal additional amount of projectiles. The amount of mana you can expend is equal to your Magic modifier. {: .spell-sink}
+**Mana Sink**{: .spell-sink-label} You can expend an additional amount of mana to create an equal additional amount of projectiles. The amount of mana you can expend is equal to your Magic modifier.
+{: .spell-sink}
 
 **Infusion**{: .spell-infusion-label} If you have Novice Proficiency in Transmutation, you can make it so the projectiles gain the following effects based on your primary Affinity instead of dealing force damage.
 {: .spell-infusion}
