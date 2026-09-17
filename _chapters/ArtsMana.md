@@ -284,7 +284,7 @@ If your **Intelligence**{: .attr-int} modifier is negative, you subtract the num
 - Lightning: The damage type becomes lightning. If one dweller takes maximum damage, they must succeed on a Constitution Save against your Magic DC, on a failure, they become stunned until the start of their next turn.
 - Ice: The damage type becomes cold and each projectile deals 1 additional piercing or bludgeoning damage to all dwellers within 1.5 meters of the target.
 - Life: The damage type becomes psychic. Alternatively, you can cause a projectile to heal a dweller instead. You can choose which effect each projectile(s) uses.
-- Dark: The damage type becomes necrotic. Their movement is reduced by 1.5 meters for each 6 damage the end of their next turn or until they regain hit points.
+- Dark: The damage type becomes necrotic. Their movement is reduced by 1.5 meters for each 6 damage they take until the end of their next turn or until they regain hit points.
 - Nature: The damage type becomes poison. If one dweller takes 10 or more poison damage from this spell, they become poisoned. While poisoned by this effect, they take 1d4 poison damage at the end of each **R**{: .notation title="Round"} for 1 minute. At the end of that minute, they must succeed on a Constitution Save against your Magic DC, on a failure, the duration of the poison refreshes.
 - Null: The damage type becomes almighty.
 {: .spell-body-list}
