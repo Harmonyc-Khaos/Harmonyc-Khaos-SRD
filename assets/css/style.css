@@ -534,49 +534,21 @@ body {
   border-bottom: 1px solid var(--border);
 }
 
-.chapter .spell-overcast {
+.chapter .spell-overcast,
+.chapter .spell-upcast,
+.chapter .spell-drawback,
+.chapter .spell-sink,
+.chapter .spell-infusion {
   margin: 0;
   padding: 8px 18px;
   font-size: 0.9rem;
 }
 
-.chapter .spell-overcast-label {
-  font-family: var(--font-ui);
-  font-weight: 700;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  background: none;
-  padding: 0;
-  border-radius: 0;
-  margin-right: 6px;
-}
-
-.chapter .spell-upcast {
-  margin: 0;
-  padding: 8px 18px;
-  font-size: 0.9rem;
-}
-
-.chapter .spell-upcast-label {
-  font-family: var(--font-ui);
-  font-weight: 700;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  background: none;
-  padding: 0;
-  border-radius: 0;
-  margin-right: 6px;
-}
-
-.chapter .spell-drawback {
-  margin: 0;
-  padding: 8px 18px;
-  font-size: 0.9rem;
-}
-
-.chapter .spell-drawback-label {
+.chapter .spell-overcast-label,
+.chapter .spell-upcast-label,
+.chapter .spell-drawback-label,
+.chapter .spell-sink-label,
+.chapter .spell-infusion-label  {
   font-family: var(--font-ui);
   font-weight: 700;
   font-size: 0.8rem;

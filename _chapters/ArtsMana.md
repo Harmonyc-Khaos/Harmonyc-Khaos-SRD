@@ -232,6 +232,64 @@ You condense your mana in the palm of your hand and transmute it into flame miss
 
 </div>
 
+### Magic Missile
+
+<div class="spell-card" markdown="1">
+
+**Magic Missile**{: .spell-name} **1st Tier**{: .spell-tier}
+
+**School**{: .spell-tag-label} School(s) of Magic
+{: .spell-tags}
+
+**Affinity**{: .spell-tag-label} Arcane
+{: .spell-tags}
+
+**Sources**{: .spell-tag-label} Expression · Inherit · Logos
+{: .spell-tags}
+
+**Requirements**{: .spell-tag-label} 3 **Intelligence**{: .attr-int} · Emission (Novice) · Prima (Novice)
+{: .spell-tags .spell-tags-last}
+
+**Cast Time**{: .spell-meta-label} ⬢⬢
+{: .spell-meta}
+
+**Range**{: .spell-meta-label} 9 m
+{: .spell-meta}
+
+**Components**{: .spell-meta-label} **V**{: .notation title="Verbal"} **S**{: .notation title="Somatic"}
+{: .spell-meta}
+
+**Duration**{: .spell-meta-label} Instant
+{: .spell-meta .spell-meta-last}
+
+You manifest your Mana as 3 projectiles of pure magical energy and fire each of them at a target(s) of your choice within range. Each target you choose takes 1d4 force damage for each projectile, adding up if multiple projectiles target one dweller.
+{: .spell-body}
+
+For each Proficiency Rank above Novice that you have in Emission, the range of this spell increases by 3 m.
+{: .spell-body}
+
+If your **Intelligence**{: .attr-int} modifier is negative, you subtract the number of projectiles you manifest by that amount.
+{: .spell-body}
+
+**Mana Sink**{: .spell-sink-label} You can expend an additional amount of mana to create an equal additional amount of projectiles. The amount of mana you can expend is equal to your Magic modifier.
+{: .spell-sink}
+
+**Infusion**{: .spell-infusion-label} If you have Novice Proficiency in Transmutation, you can make it so the projectiles gain the following effects based on your primary Affinity instead of dealing force damage.{: .spell-infusion}
+
+* Fire: The damage type becomes fire. If one dweller takes 10 or more fire damage from this spell, they are set ablaze.
+* Water: The damage type becomes bludgeoning and each projectile deals 1 additional acid or cold damage to all dwellers within 1.5 meters of the target.
+* Air: The damage type becomes slashing or sonic. For each 6 damage they take, you can either push the target(s) 1.5 meters back or take the Step basic action as a ⏣.
+* Earth: The damage type becomes bludgeoning or piercing. The damage counts as double against an object's hardness.
+* Lightning: The damage type becomes lightning. If one dweller takes maximum damage, they must succeed on a Constitution Save against your Magic DC, on a failure, they become stunned until the start of their next turn.
+* Ice: The damage type becomes cold and each projectile deals 1 additional piercing or bludgeoning damage to all dwellers within 1.5 meters of the target.
+* Life: The damage type becomes psychic. Alternatively, you can cause a projectile to heal a dweller instead. You can choose which effect each projectile(s) uses.
+* Dark: The damage type becomes necrotic. Their movement is reduced by 1.5 meters for each 6 damage the end of their next turn or until they regain hit points.
+* Nature: The damage type becomes poison. If one dweller takes 10 or more poison damage from this spell, they become poisoned. While poisoned by this effect, they take 1d4 poison damage at the end of each **R**{: .notation title="Round"} for 1 minute. At the end of that minute, they must succeed on a Constitution Save against your Magic DC, on a failure, the duration of the poison refreshes.
+* Null: The damage type becomes almighty.
+{: .spell-infusion}
+
+</div>
+
 ### Shield
 
 <div class="spell-card" markdown="1">
