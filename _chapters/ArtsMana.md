@@ -224,7 +224,7 @@ Spell description goes here.
 **Duration**{: .spell-meta-label} Instant
 {: .spell-meta .spell-meta-last}
 
-You condense your mana in the palm of your hand and transmute it into flame missile, you then hurl it at a target within range. Make a ranged spell attack, on a hit the target dweller takes 1d8 fire damage.
+You condense your mana in the palm of your hand and transmute it into a flame missile, you then hurl it at a target within range. Make a ranged spell attack, on a hit the target takes 1d8 fire damage.
 {: .spell-body}
 
 **Overcast**{: .spell-overcast-label} By expending an additional ⬡, you can set the target ablaze.
@@ -238,7 +238,7 @@ You condense your mana in the palm of your hand and transmute it into flame miss
 
 **Magic Missile**{: .spell-name} **1st Tier**{: .spell-tier}
 
-**School**{: .spell-tag-label} School(s) of Magic
+**School**{: .spell-tag-label} Emission
 {: .spell-tags}
 
 **Affinity**{: .spell-tag-label} Arcane
