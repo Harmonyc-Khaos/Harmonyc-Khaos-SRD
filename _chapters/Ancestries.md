@@ -31,7 +31,7 @@ The Homonis are ambitious and versatile people with limitless potential. They ar
 A Homonis character has an additional 4 **Health Points**. They are some of the most fragile beings in **The New World** and a well placed strike from a dagger is usually enough to end their lives. Like every other being in **Haros**, they have access to Mana which grants them 1 **Mana Point** which they cannot use without the knowledge on how to do so.
 
 ### Stats
-You gain 3 additional stat points and you may add them to any Attribute of your choice.
+You gain 3 additional Attribute points and you may add them to any Attribute of your choice.
 
 Your base **movement speed** is 9 m/**R**{: .notation title="Round"}
 
@@ -235,7 +235,7 @@ If you choose this heritage your **Affinity** becomes **Air**.
 **Chevalerie**{: .feature}
 You gain **Novice** Proficiency in Riding and 1 Combat Proficiency for a weapon of your choice except Brawling.
 
-When you take the **Step** action during combat, your distance is doubled.
+When you take the **Step** basic action during combat, the movement for that action is doubled.
 
 When you score a critical strike you gain the effect of a 1st tier Art of your choice that you know without expending Mana.
 </div>
