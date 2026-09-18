@@ -281,7 +281,7 @@ If your **Intelligence**{: .attr-int} modifier is negative, you subtract the num
 - Water: The damage type becomes bludgeoning and each projectile deals 1 additional acid or cold damage to all dwellers within 1.5 meters of the target.
 - Air: The damage type becomes slashing or sonic. For each 6 damage they take, you can either push the target(s) 1.5 meters back or take the Step basic action as a ⏣.
 - Earth: The damage type becomes bludgeoning or piercing. The damage counts as double against an object's hardness.
-- Lightning: The damage type becomes lightning. If one dweller takes maximum damage, they must succeed on a Constitution Save against your Magic DC, on a failure, they become stunned until the start of their next turn.
+- Lightning: The damage type becomes lightning. If one dweller takes maximum damage from 3 projectiles or more, they must succeed on a Constitution Save against your Magic DC, on a failure, they become stunned until the start of their next turn.
 - Ice: The damage type becomes cold and each projectile deals 1 additional piercing or bludgeoning damage to all dwellers within 1.5 meters of the target.
 - Life: The damage type becomes psychic. Alternatively, you can cause a projectile to heal a dweller instead. You can choose which effect each projectile(s) uses.
 - Dark: The damage type becomes necrotic. Their movement is reduced by 1.5 meters for each 6 damage they take until the end of their next turn or until they regain hit points.
