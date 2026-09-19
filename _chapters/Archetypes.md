@@ -10,39 +10,39 @@ slug: chapter-3
 
 Archetypes, much like Ancestries, are a key part to your character's identity and defines the core qualities that the respective character wishes to embrace and representing the style of play that you want to embody during the game as well as the strengths and weaknesses of your character both in life and in combat. When creating a character you must pick a Fledgling Archetype which will, through trial and tribulation and the gain of experience, evolve into a powerful force to be reckoned with.
 
-### Titles
+## Titles
 
 The title of your archetype represents its current job description. A title is usually received when an archetype's goal is completed. By gaining new titles you gain access to new features pertaining to your archetype as well as additional bonus attribute points.
 
-### Progression
+## Progression
 
 During your journey in Haros, your archetype and the titles that share a lineage with it will evolve as you complete goals. These goals are each described in the archetype's section and their progression must be tracked by their player.
 
-## Fledgling Archetypes
+# Fledgling Archetypes
 
 (WIP)
 
-### The Artist
+## The Artist
 
-### The Brawler
+## The Brawler
 
-### The Devout
+## The Devout
 
-### The Disciple
+## The Disciple
 
-### The Mage
+## The Mage
 
-### The Rogue
+## The Rogue
 
-### The Scion
+## The Scion
 
-### The Warrior
+## The Warrior
 
 > (WIP)
 
 (WIP)
 
-#### Stats
+### Stats
 
 You gain an additional +1 to **Strength**{: .attr-str}, **Constitution**{: .attr-con} and **Willpower**{: .attr-wil}.
 
@@ -51,7 +51,7 @@ You gain 8 additional Health Points + your **Constitution**{: .attr-con} modifie
 Your Maneuver DC is equal to 8 + your **Strength**{: .attr-str} modifier + your Proficiency rank.
 Your Magic DC is equal to 8 + your **Willpower**{: .attr-wil} modifier + your Proficiency rank.
 
-#### Proficiencies
+### Proficiencies
 
 You gain Novice Proficiency in any 3 Combat Proficiencies of your choice, including at least 1 Weapon proficiency.
 
@@ -63,42 +63,42 @@ You gain Novice Proficiency in **Strength**{: .attr-str}, **Constitution**{: .at
 
 You gain Novice Proficiency in your Maneuver and Magic DCs.
 
-#### Features
+### Features
 
 You learn 2 Principles and 2 1st Tier Arts of your choice.
 
 You gain 1 Feature (WIP?)
 
-## Rookie Archetypes
+# Rookie Archetypes
 
-### The Archer
+## The Archer
 
-### The Brave
+## The Brave
 
-### The Brute
+## The Brute
 
-### The Burglar
+## The Burglar
 
-### The Dancer
+## The Dancer
 
-### The Druid
+## The Druid
 
-### The Illustrator
+## The Illustrator
 
-### The Knight
+## The Knight
 
-### The Monk
+## The Monk
 
-### The Musician
+## The Musician
 
-### The Pugilist
+## The Pugilist
 
-### The Scout
+## The Scout
 
-### The Shade
+## The Shade
 
-### The Soldier
+## The Soldier
 
-### The Thug
+## The Thug
 
-### The Vassal
+## The Vassal
