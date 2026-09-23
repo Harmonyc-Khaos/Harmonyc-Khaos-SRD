@@ -49,6 +49,7 @@ You gain an additional +1 to **Strength**{: .attr-str}, **Constitution**{: .attr
 You gain 8 additional Health Points + your **Constitution**{: .attr-con} modifier. On a level up, you gain an additional 1d8 + your **Constitution**{: .attr-con} modifier Health points. You gain an additional amount of Mana Points equal to your **Willpower**{: .attr-wil} modifier.
 
 Your Maneuver DC is equal to 8 + your **Strength**{: .attr-str} modifier + your Proficiency rank.
+
 Your Magic DC is equal to 8 + your **Willpower**{: .attr-wil} modifier + your Proficiency rank.
 
 ### Proficiencies

@@ -169,7 +169,7 @@ You must complete a rest before you use this feature again.
 </div>
 
 ### House Gadoliel (The Advocate)
-Descendants of the Pontiff of **The Triumph**, they hold the highest positions within the Clergy and are in charge of spreading the teachings of Him to any and all that wish to join the empire. The Triumph accepts all, lowborn and highborn, Homonis or not. As such, it is not uncommon to see adopted members of the family from other ancestries, as the First Pontiff himself was a Semia, half Homonis and a Sylva.
+Descendants of the Pontiff of **The Triumph**, they hold the highest positions within the clergy and are in charge of spreading the teachings of Him to anyone that wishes to join the empire. The Triumph accepts all, lowborn and highborn, Homonis or not. As such, it is not uncommon to see adopted members of the family from other ancestries, as the First Pontiff himself was a Semia, half Homonis and half Sylva.
 
 Individuals naturally born into this house have golden eyes with a sigil inscribed in them. Other non-Homonis dwellers adopted into this house have their eyes change into the same ones as their predecessors, marking them as having accepted Him into their hearts as the one true God.
 
