@@ -227,6 +227,7 @@ body {
   max-width: 100%;
   height: auto;
   border-radius: 6px;
+  display: block;
 }
 
 /* Clear floats after each section so they don't bleed into the next */
