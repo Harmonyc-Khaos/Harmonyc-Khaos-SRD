@@ -208,6 +208,33 @@ body {
   height: auto;
 }
 
+/* ---------- Floating images ---------- */
+
+.chapter .float-left {
+  float: left;
+  margin: 0 20px 16px 0;
+  max-width: 200px;
+}
+
+.chapter .float-right {
+  float: right;
+  margin: 0 0 16px 20px;
+  max-width: 200px;
+}
+
+.chapter .float-left img,
+.chapter .float-right img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* Clear floats after each section so they don't bleed into the next */
+.chapter h2,
+.chapter h3 {
+  clear: both;
+}
+
 /* ---------- Action Cards ---------- */
 
 .chapter .action-card {
