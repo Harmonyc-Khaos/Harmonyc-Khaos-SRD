@@ -100,7 +100,6 @@ The keepers of knowledge, House Kosemiel owns vast libraries containing incalcul
 <br>
 
 People of this house tend to share their appearance with their ancestor, **The First Sage**, with fair androgynous complexions, white hair and eye colors that tend to shift between the primary colors (Red, Yellow and Blue).
-
 <br>
 
 If you choose this heritage your **Affinity** becomes **Arcane**.
@@ -123,11 +122,9 @@ You must complete a rest before you use this feature again.
 </div>
 
 The Neviel family is known as a family that puts virtue above all. Since young, their children are raised communally by the head of the house, always a Matriarch, being taught to be as selfless as possible and disciplined to be the embodiment of virtue itself. Due to their signature ability to see the color of the soul, it is customary for them to wear a blindfold, specially during times of rest. They are educated by their family into believing firmly that their ability does not grant them the power to judge other dwellers, even if the other Great Houses often of Vinctora often use them for that very same purpose.
-
 <br>
 
 People of this house tend to share their appearance with their ancestor, **The First Saint**, with extremely feminine complexions, even the male heirs, blonde hair and light colored eyes, mostly blue and green tones. Some branch members are known to have darker shades of skin tone.
-
 <br>
 
 If you choose this heritage your **Affinity** becomes **Water**.
@@ -164,11 +161,9 @@ Depending on your proficiency in Emission, you may be able to convert larger amo
 </div>
 
 Historically, the family that descends from the **First Empress** of the Homonis empire and the people that originate from the same settlement that she did. Their blood has become intertwined with house Melechiel and the only difference between the two is where their homeland within Vinctora lies and the Affinity that they are born with. Individuals produced by this house are commonly cunning, elegant and socially adept.
-
 <br>
 
 Since young they are taught the value of secrets and lies and how to weaponize them. They often take on the position of a social climber within the empire's borders.
-
 <br>
 
 If you choose this heritage your **Affinity** becomes **Ice**.
@@ -187,11 +182,9 @@ When you succeed a **Proficiency Test** that uses **Charisma**{: .attr-cha} whil
 </div>
 
 Historically, the family that descends from the **First Emperor** of the Homonis empire and the people that originate from the same settlement that he did. Their blood has become intertwined with house Malkahiel and the only difference between the two is where their homeland within Vinctora lies and the Affinity that they are born with.
-
 <br>
 
 Individuals produced by this house are natural-born leaders, both charismatic and pragmatic.
-
 <br>
 
 If you choose this heritage your **Affinity** becomes **Lightning**.
@@ -212,11 +205,9 @@ You must complete a rest before you use this feature again.
 </div>
 
 Descendants of the Pontiff of **The Triumph**, they hold the highest positions within the clergy and are in charge of spreading the teachings of Him to anyone that wishes to join the empire. The Triumph accepts all, lowborn and highborn, Homonis or not. As such, it is not uncommon to see adopted members of the family from other ancestries, as the First Pontiff himself was a Semia, half Homonis and half Sylva.
-
 <br>
 
 Individuals naturally born into this house have golden eyes with a sigil inscribed in them. Other non-Homonis dwellers adopted into this house have their eyes change into the same ones as their predecessors, marking them as having accepted Him into their hearts as the one true God.
-
 <br>
 
 If you choose this heritage your **Affinity** becomes **Nature**.
@@ -255,15 +246,12 @@ Shall the target of the Vow break their Vow by either renouncing Him as their on
 </div>
 
 Originally this Hero King's sit was occupied by a couple but in their ascension to Hero King, He granted their wish to become one forever. The resulting being had both masculine and feminine features, it was said that they were the most beautiful person in the empire at its inception.
-
 <br>
 
 The Hero King of House Ahaviel did not have any descedants, yet the other people of their settlement continued the family line for them, having passed down the teachings and philosophy that one's single most important goal in life was to find their fated person, their one and only partner, and become one with them.
-
 <br>
 
 Those born into the Ahaviel family have warm colored eyes, specially red and pink tones, though it is said that the saturation in them shifts with their mood. They tend to care much for their own appearance and when they find their partner they become solely focused on appealing to them to the point of an unhealthy obsession.
-
 <br>
 
 If you choose this heritage your **Affinity** becomes **Life**.
@@ -285,14 +273,13 @@ Both you and the target of your Vow are immune to the **Charmed** condition cast
 </div>
 
 Charlotte Merkaviel is perhaps one of the most respected and feared names outside of Vinctora, an young upbeat girl who became the chariot for the Empire's unification of Vinctora. People from this house are known for their carefree attitude, stubborness and loyalty.
-
 <br>
 
 Much like the first head of the family, descedants of the Merkaviel house possess silver hair and bluish/purple eyes, though sometimes **black sheep** are born with dark colored hair.
-
 <br>
 
 Due to an incident relating to the fourth head of the family, who was the first in his lineage to have dark hair, and renounced Him before abandoning his family and fleeing to Oberona, a dark hair is considered a bad omen within the family and the members born with it are often shunned out of their ancestral homeland.
+<br>
 
 If you choose this heritage your **Affinity** becomes **Air**.
 
@@ -313,11 +300,9 @@ When you score a critical strike you gain the effect of a 1st tier Art of your c
 </div>
 
 The only Great House in the empire that has said to have preserved the knowledge and love for their creators even after centuries gone, theirs are menacing-looking but kind-hearted individuals.
-
 <br>
 
 Heirs of the Chozekiel family are known for their rough physical features such as squared jaws and tall, often muscular, stature. Their eyes and hair are usually dark brown though some small difference in shades of brown have been noticed as well as the ever so rare ginger member of the family. Depending where they hail from within Vinctora, they may have darker shades of skin tone, specially the south.
-
 <br>
 
 If you choose this heritage your **Affinity** becomes **Earth**.
@@ -339,15 +324,12 @@ You learn the '**Enlarge**' spell art and can cast it as **Silent** magic only o
 
 
 The first head of the Bodebiel family was selected as a Hero King against his will. He knew that he had no disposition to rule, but neither did any of his fellow tribesmen for that matter. The people of his settlement are all timid and avoidant by nature, yet it is this very isolationism that made them worthy of being selected by His grace. Their presence is so inconspicuous that they make for great spies, scouts and other jobs that require stealth.
-
 <br>
 
 They reside in the eastern mountainous regions of Vinctora, living in complete isolation from the rest of the Empire, where they are taught since young to practice their signature ability. Clearing one's mind is the key to a peaceful life. Become one with the background. Make yourself null.
-
 <br>
 
 Descendants of the Bodebiel family are scrawny and have usually pale skin, with neutral colored hair and eyes that look empty when one stares for too long, with a variety of grays being the most common color in their features.
-
 <br>
 
 If you choose this heritage your **Affinity** becomes **Nature**.
@@ -367,15 +349,12 @@ You learn the 'Nihil' Art. When you use it through this feature, you gain the **
 </div>
 
 Ever joyful and carefree, yet aloof and unconcerned with worldy matters. These are the words best used to describe the people from house Goraliel, who to some members of the other Great Houses, are considered a nuisance at best and an active inconvenience at worst. They are said to have common blood with the Fata and other spirits that descended from Aerus, Primordial of Air.
-
 <br>
 
 Despite the animosity against them, they are still treated with both fear and respect, because, when it comes to matters of luck, always bet on the side of the Goraliel family.
-
 <br>
 
 Members of this house only have a single physical characteristic common amongst them, the sigils imprinted into their eyes in the shape of a wheel.
-
 <br>
 
 If you choose this heritage your **Affinity** becomes **Air**.
