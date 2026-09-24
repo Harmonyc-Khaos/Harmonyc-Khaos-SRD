@@ -212,13 +212,13 @@ body {
 
 .chapter .float-left {
   float: left;
-  margin: 0 20px 8px 0;
+  margin: 6px 20px 16px 0; /* Added 6px top margin to push image down */
   max-width: 200px;
 }
 
 .chapter .float-right {
   float: right;
-  margin: 0 0 8px 20px;
+  margin: 6px 0 16px 20px; /* Added 6px top margin to push image down */
   max-width: 200px;
 }
 
