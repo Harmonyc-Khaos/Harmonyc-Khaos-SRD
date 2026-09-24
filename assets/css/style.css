@@ -233,7 +233,11 @@ body {
   width: 100%;
 }
 
-/* Clear floats after each section so they don't bleed into the next */
+.chapter .float-left + p,
+.chapter .float-right + p {
+  margin-top: 0;
+}
+
 .chapter h2,
 .chapter h3 {
   clear: both;
