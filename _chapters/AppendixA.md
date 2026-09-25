@@ -1,7 +1,7 @@
 ---
 title: "Appendix A: Character Sheet"
-order: 11
-slug: chapter-11
+order: 12
+slug: chapter-12
 ---
 
 # Appendix A: Character Sheet

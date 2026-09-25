@@ -1,10 +1,10 @@
 ---
-title: "Chapter 9: Running the Game"
-order: 9
-slug: chapter-9
+title: "Chapter 10: Running the Game"
+order: 10
+slug: chapter-10
 ---
 
-# Chapter 9: Running the Game
+# Chapter 10: Running the Game
 
 ## Basic Actions
 

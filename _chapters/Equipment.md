@@ -1,10 +1,10 @@
 ---
-title: "Chapter 7: Equipment"
-order: 7
-slug: chapter-7
+title: "Chapter 8: Equipment"
+order: 8
+slug: chapter-8
 ---
 
-# Chapter 7: Equipment
+# Chapter 8: Equipment
 
 ### Item Template
 

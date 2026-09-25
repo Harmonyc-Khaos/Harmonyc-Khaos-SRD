@@ -1,7 +1,7 @@
 ---
 title: "Appendix B  : Karma"
-order: 12
-slug: chapter-12
+order: 13
+slug: chapter-13
 ---
 
 # Appendix B: Karma

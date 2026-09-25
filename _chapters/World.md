@@ -1,7 +1,7 @@
 ---
-title: "Chapter 8: The World"
-order: 8
-slug: chapter-8
+title: "Chapter 9: The World"
+order: 9
+slug: chapter-9
 ---
 
-# Chapter 8: The World
+# Chapter 9: The World

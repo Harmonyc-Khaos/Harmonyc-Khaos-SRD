@@ -1,7 +1,7 @@
 ---
-title: "Chapter 10: Crafting and Loot"
-order: 10
-slug: chapter-10
+title: "Chapter 11: Crafting and Loot"
+order: 11
+slug: chapter-11
 ---
 
-# Chapter 10: Crafting and Loot
+# Chapter 11: Crafting and Loot
