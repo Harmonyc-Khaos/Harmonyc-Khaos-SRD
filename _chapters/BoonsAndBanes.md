@@ -55,13 +55,11 @@ Taking this feature counts as taking 2 Boons.
 You cannot use any effect that utilizes Mana without spending a ⬢ token first during each of your turns. Those effects then get powered up.
 
 
-### Chaos Wave (Bane)
+### Wicked Artillery (Bane)
 
-(WIP)
+You must expend an additional ⬢ token to use Emission-based arts and features. When you use such arts/features, their range is increased by 3 sq. Your movement is permanently reduced by 1 sq.
 
-You must expend an additional ⬢ token to perform Emission-based effects. If you do so, your movement is then reduced by half for that turn and the range of all Emission-based effects are increased by 4.5 m.
-
-To take this feature you must have at least **Novice** proficiency in Emission.
+To take this bane you must have at least **Novice** proficiency in Emission.
 
 ### Hard Mode (Bane)
 

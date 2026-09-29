@@ -144,13 +144,13 @@ An ability gifted to House Neviel by Him. By maintaining physical contact with a
 
 Depending on your proficiency in Emission, you may be able to convert larger amounts:
 
-* If you have Novice proficiency: You may convert up to 700 thousand liters over one entire day. You may also target rain to become **blessed water** within 4.5 meters of you.
+* If you have Novice proficiency: You may convert up to 700 thousand liters over one entire day. You may also target rain to become **blessed water** within 3 sq of you.
 
-* If you have Expert proficiency: You may convert up to 4,8 million liters over one week. You may also target rain to become **blessed water** within 9 meters of you.
+* If you have Expert proficiency: You may convert up to 4,8 million liters over one week. You may also target rain to become **blessed water** within 6 sq of you.
 
-* If you have Master proficiency: You may convert up to 12 million liters over two and a half weeks. You may also target rain to become **blessed water** within 13.5 meters of you.
+* If you have Master proficiency: You may convert up to 12 million liters over two and a half weeks. You may also target rain to become **blessed water** within 9 sq of you.
 
-* If you have Legendary proficiency: You may convert up to 24,5 million liters (about enough to fill a small lake), over 40 days (about an entire season). You may also target rain to become **blessed water** within 18 meters of you.
+* If you have Legendary proficiency: You may convert up to 24,5 million liters (about enough to fill a small lake), over 40 days (about an entire season). You may also target rain to become **blessed water** within 12 sq of you.
 
 </div>
 
@@ -288,7 +288,7 @@ If you choose this heritage your **Affinity** becomes **Air**.
 **Chevalerie**{: .feature}
 You gain **Novice** Proficiency in Riding and 1 Combat Proficiency for a weapon of your choice except Brawling.
 
-When you take the **Step** basic action during combat, the movement for that action is doubled.
+When you take the **Step** basic action during combat, the movement distance granted by that action is doubled.
 
 When you score a critical strike you gain the effect of a 1st tier Art of your choice that you know without expending Mana.
 </div>
@@ -362,7 +362,7 @@ If you choose this heritage your **Affinity** becomes **Air**.
 <div class="ability-card" markdown="1">
 
 **Twist of Fate**{: .feature}
-As a ⏣ Rebuttal; whenever a dweller that you are aware of within 9 meters of you (including yourself) makes a **D20 Roll**, you may add or remove a 1d10 to that roll. You must complete a rest before you use this feature again.
+As a ⏣ Rebuttal; whenever a dweller that you are aware of within 6 sq of you (including yourself) makes a **D20 Roll**, you may add or remove a 1d10 to that roll. You must complete a rest before you use this feature again.
 
 At 7th level, you gain a second use of this feature. At 15th level you gain a third use of this feature. At 24th level you gain a fourth use of this feature. At 34th level, you gain a fifth use of this feature. 
 

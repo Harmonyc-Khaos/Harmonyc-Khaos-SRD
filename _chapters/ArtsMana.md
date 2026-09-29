@@ -143,7 +143,7 @@ If the next attack you make hits, it ignores the **damage reduction** provided b
 **Requirements**{: .art-tag-label} 7 **Strength**{: .attr-str}
 {: .art-tags .art-tags-last}
 
-Make an attack with a weapon that you are wielding. That attack's range increases by 1.5 meters and deals an additional amount of damage equal to your weapon's average damage. If you make a Called Shot with this attack, it has no penalties to your accuracy.
+Make an attack with a weapon that you are wielding. That attack's range increases by 1 sq and deals an additional amount of damage equal to your weapon's average damage. If you make a Called Shot with this attack, it has no penalties to your accuracy.
 {: .art-body}
 
 </div>
@@ -215,7 +215,7 @@ Spell description goes here.
 **Cast Time**{: .spell-meta-label} ⬢
 {: .spell-meta}
 
-**Range**{: .spell-meta-label} 9 m
+**Range**{: .spell-meta-label} 6 sq
 {: .spell-meta}
 
 **Components**{: .spell-meta-label} **V**{: .notation title="Verbal"} **S**{: .notation title="Somatic"}
@@ -253,7 +253,7 @@ You condense your mana in the palm of your hand and transmute it into a flame mi
 **Cast Time**{: .spell-meta-label} ⬢⬢
 {: .spell-meta}
 
-**Range**{: .spell-meta-label} 9 m
+**Range**{: .spell-meta-label} 6 sq
 {: .spell-meta}
 
 **Components**{: .spell-meta-label} **V**{: .notation title="Verbal"} **S**{: .notation title="Somatic"}
@@ -324,7 +324,7 @@ If your **Intelligence**{: .attr-int} modifier is negative, you subtract the num
 When an attack is declared against you or targets an area that includes you, you can react by activating this spell without paying its Mana Cost. While active, whenever you take damage, you can pay the Mana Cost to reduce that damage by an amount equal to your Magic modifier. The DR is reduced by half (rounded down) if the damage type of the attack is Slashing, Piercing or Bludgeoning.
 {: .spell-body}
 
-**Overcast**{: .spell-overcast-label} If you have Expert Proficiency in Emission, you can expend an additional ⬢ to grant the benefits of 'Shield' to all dwellers within 1.5 meters of you.
+**Overcast**{: .spell-overcast-label} If you have Expert Proficiency in Emission, you can expend an additional ⬢ to grant the benefits of 'Shield' to all dwellers within 1 sq of you.
 {: .spell-overcast}
 
 **Mana Sink**{: .spell-sink-label}  You can expend an additional amount of mana to increase the amount of DR provided by the spell. The damage reduction is multiplied by the amount of mana expended.

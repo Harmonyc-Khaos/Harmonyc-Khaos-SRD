@@ -96,7 +96,7 @@ You move a distance up to your base movement speed.
 
 **Step**{: .action-name} **⬡**{: .action-symbol}
 
-You swiftly move 1.5 meters. When you take this action, dwellers cannot use **Rebuttals** in response to it.
+You swiftly move 1 sq. When you take this action, dwellers cannot use **Rebuttals** in response to it.
 {: .action-body .action-section}
 
 When you are targetted by an or are within the area of effect of an attack, you can, as a ⬡ Rebuttal, take this action. If you do so, an attack that targetted you has disadvantage to its accuracy, if it still hits, this action is canceled and you are knocked prone. If you leave an area of effect when you take this action, you are unaffected by that area of effect.
