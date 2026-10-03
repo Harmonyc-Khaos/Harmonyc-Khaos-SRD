@@ -99,7 +99,7 @@ You move a distance up to your base movement speed.
 You swiftly move 1 sq. When you take this action, dwellers cannot use **Rebuttals** in response to it.
 {: .action-body .action-section}
 
-When you are targetted by an or are within the area of effect of an attack, you can, as a ⬡ Rebuttal, take this action. If you do so, an attack that targetted you has disadvantage to its accuracy, if it still hits, this action is canceled and you are knocked prone. If you leave an area of effect when you take this action, you are unaffected by that area of effect.
+When you are targetted by an or are within the area of effect of an attack, you can, as a ⬡ Rebuttal, take this action. If you do so, an attack that targetted you has disadvantage to its accuracy, if it still hits, this action is canceled and you become **Off-Guard** until the start of your next turn. If you leave an area of effect when you take this action, you are unaffected by that area of effect.
 {: .action-body}
 
 </div>
@@ -119,7 +119,10 @@ You make an attack with a weapon that you are wielding or with an unarmed strike
 **Success**{: .success-normal}{: .action-label} You deal damage according to the weapon or unarmed strike, including any bonuses or penalties to damage.
 {: .action-body .action-section}
 
-**Critical Failure**{: .failure-critical}{: .action-label} The target dweller gains the ability to take a Basic Action as a ⏣ Rebuttal provided that action only takes a ⬢, ⬡ or ⏣ to perform and that the requirements are met for that action.
+**Failure**{: .failure-normal}{: .action-label} You miss and deal no damage.
+{: .action-body .action-section}
+
+**Critical Failure**{: .failure-critical}{: .action-label} You miss and deal no damage. The target dweller gains the ability to take a Basic Action as a ⏣ Rebuttal provided that action only takes a ⬢, ⬡ or ⏣ to perform and that the requirements are met for that action.
 {: .action-body .action-section}
 
 </div>
